@@ -1,0 +1,2810 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.15)  3 DEC 2022 15:08
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**agujournaltemplate.tex
+(./agujournaltemplate.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (./agujournal2019.cls
+Document Class: agujournal2019 01/14/2019
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen138
+\Gin@req@width=\dimen139
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count179
+\output=\toks16
+\linenoprevgraf=\count180
+\linenumbersep=\dimen140
+\linenumberwidth=\dimen141
+\c@linenumber=\count181
+\c@pagewiselinenumber=\count182
+\c@LN@truepage=\count183
+\c@internallinenumber=\count184
+\c@internallinenumbers=\count185
+\quotelinenumbersep=\dimen142
+\bframerule=\dimen143
+\bframesep=\dimen144
+\bframebox=\box47
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2021/02/05 v3.0 ragged2e Package
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/everysel/everysel.sty
+Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/everysel/everysel-2011-10-28.sty)
+)
+\CenteringLeftskip=\skip47
+\RaggedLeftLeftskip=\skip48
+\RaggedRightLeftskip=\skip49
+\CenteringRightskip=\skip50
+\RaggedLeftRightskip=\skip51
+\RaggedRightRightskip=\skip52
+\CenteringParfillskip=\skip53
+\RaggedLeftParfillskip=\skip54
+\RaggedRightParfillskip=\skip55
+\JustifyingParfillskip=\skip56
+\CenteringParindent=\skip57
+\RaggedLeftParindent=\skip58
+\RaggedRightParindent=\skip59
+\JustifyingParindent=\skip60
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count186
+\rotFPtop=\skip61
+\rotFPbot=\skip62
+\rot@float@box=\box48
+\rot@mess@toks=\toks17
+)
+\draftskip=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip63
+\belowcaptionskip=\skip64
+\c@appendnum=\count195
+\bibindent=\dimen145
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count196
+\bibleftmargin=\skip65
+\bibindent=\skip66
+\bibparsep=\skip67
+\bibitemsep=\skip68
+\biblabelsep=\skip69
+))
+(./trackchanges.sty
+Package: trackchanges 2009/04/22 v0.7.0 TrackChanges file 
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count197
+\calc@Bcount=\count198
+\calc@Adimen=\dimen146
+\calc@Bdimen=\dimen147
+\calc@Askip=\skip70
+\calc@Bskip=\skip71
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count199
+\calc@Cskip=\skip72
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks18
+\SOUL@lasttoken=\toks19
+\SOUL@cmds=\toks20
+\SOUL@buffer=\toks21
+\SOUL@token=\toks22
+\SOUL@spaceskip=\skip73
+\SOUL@ttwidth=\dimen148
+\SOUL@uldp=\dimen149
+\SOUL@ulht=\dimen150
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/morefloats/morefloats.sty
+Package: morefloats 2015/07/22 v1.0h Raise limit of unprocessed floats (HMM)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+Package morefloats Info: Maximum number of possible floats asked for: 36
+(morefloats)             (i.e. 18 more floats).
+(morefloats)             LaTeX might run out of memory before this
+(morefloats)             (in which case it will notify you).
+)
+\c@userid=\count266
+\c@changenumber=\count267
+\c@storefootnote=\count268
+\c@numeditors=\count269
+\c@maxeditors=\count270
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/textgreek/textgreek.sty
+Package: textgreek 2011/10/09 v0.7 Greek symbols in text
+Package textgreek Info: Loading the definitions for the Greek fontencoding. on 
+input line 39.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/greek-fontenc/lgrenc.def
+File: lgrenc.def 2020/10/13 2.0 LGR Greek font encoding definitions
+Now handling font encoding LGR ...
+... processing UTF-8 mapping file for font encoding LGR
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/greek-inputenc/lgrenc.dfu
+File: lgrenc.dfu 2019/07/11 1.7 UTF-8 support for Greek
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0259 (decimal 601)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+0374 (decimal 884)
+   defining Unicode char U+0375 (decimal 885)
+   defining Unicode char U+037A (decimal 890)
+   defining Unicode char U+037E (decimal 894)
+   defining Unicode char U+0384 (decimal 900)
+   defining Unicode char U+0385 (decimal 901)
+   defining Unicode char U+0386 (decimal 902)
+   defining Unicode char U+0387 (decimal 903)
+   defining Unicode char U+0388 (decimal 904)
+   defining Unicode char U+0389 (decimal 905)
+   defining Unicode char U+038A (decimal 906)
+   defining Unicode char U+038C (decimal 908)
+   defining Unicode char U+038E (decimal 910)
+   defining Unicode char U+038F (decimal 911)
+   defining Unicode char U+0390 (decimal 912)
+   defining Unicode char U+0391 (decimal 913)
+   defining Unicode char U+0392 (decimal 914)
+   defining Unicode char U+0393 (decimal 915)
+   defining Unicode char U+0394 (decimal 916)
+   defining Unicode char U+0395 (decimal 917)
+   defining Unicode char U+0396 (decimal 918)
+   defining Unicode char U+0397 (decimal 919)
+   defining Unicode char U+0398 (decimal 920)
+   defining Unicode char U+0399 (decimal 921)
+   defining Unicode char U+039A (decimal 922)
+   defining Unicode char U+039B (decimal 923)
+   defining Unicode char U+039C (decimal 924)
+   defining Unicode char U+039D (decimal 925)
+   defining Unicode char U+039E (decimal 926)
+   defining Unicode char U+039F (decimal 927)
+   defining Unicode char U+03A0 (decimal 928)
+   defining Unicode char U+03A1 (decimal 929)
+   defining Unicode char U+03A3 (decimal 931)
+   defining Unicode char U+03A4 (decimal 932)
+   defining Unicode char U+03A5 (decimal 933)
+   defining Unicode char U+03A6 (decimal 934)
+   defining Unicode char U+03A7 (decimal 935)
+   defining Unicode char U+03A8 (decimal 936)
+   defining Unicode char U+03A9 (decimal 937)
+   defining Unicode char U+03AA (decimal 938)
+   defining Unicode char U+03AB (decimal 939)
+   defining Unicode char U+03AC (decimal 940)
+   defining Unicode char U+03AD (decimal 941)
+   defining Unicode char U+03AE (decimal 942)
+   defining Unicode char U+03AF (decimal 943)
+   defining Unicode char U+03B0 (decimal 944)
+   defining Unicode char U+03B1 (decimal 945)
+   defining Unicode char U+03B2 (decimal 946)
+   defining Unicode char U+03B3 (decimal 947)
+   defining Unicode char U+03B4 (decimal 948)
+   defining Unicode char U+03B5 (decimal 949)
+   defining Unicode char U+03B6 (decimal 950)
+   defining Unicode char U+03B7 (decimal 951)
+   defining Unicode char U+03B8 (decimal 952)
+   defining Unicode char U+03B9 (decimal 953)
+   defining Unicode char U+03BA (decimal 954)
+   defining Unicode char U+03BB (decimal 955)
+   defining Unicode char U+03BC (decimal 956)
+   defining Unicode char U+03BD (decimal 957)
+   defining Unicode char U+03BE (decimal 958)
+   defining Unicode char U+03BF (decimal 959)
+   defining Unicode char U+03C0 (decimal 960)
+   defining Unicode char U+03C1 (decimal 961)
+   defining Unicode char U+03C2 (decimal 962)
+   defining Unicode char U+03C3 (decimal 963)
+   defining Unicode char U+03C4 (decimal 964)
+   defining Unicode char U+03C5 (decimal 965)
+   defining Unicode char U+03C6 (decimal 966)
+   defining Unicode char U+03C7 (decimal 967)
+   defining Unicode char U+03C8 (decimal 968)
+   defining Unicode char U+03C9 (decimal 969)
+   defining Unicode char U+03CA (decimal 970)
+   defining Unicode char U+03CB (decimal 971)
+   defining Unicode char U+03CC (decimal 972)
+   defining Unicode char U+03CD (decimal 973)
+   defining Unicode char U+03CE (decimal 974)
+   defining Unicode char U+03D0 (decimal 976)
+   defining Unicode char U+03D1 (decimal 977)
+   defining Unicode char U+03D5 (decimal 981)
+   defining Unicode char U+03D6 (decimal 982)
+   defining Unicode char U+03D8 (decimal 984)
+   defining Unicode char U+03D9 (decimal 985)
+   defining Unicode char U+03DA (decimal 986)
+   defining Unicode char U+03DB (decimal 987)
+   defining Unicode char U+03DC (decimal 988)
+   defining Unicode char U+03DD (decimal 989)
+   defining Unicode char U+03DF (decimal 991)
+   defining Unicode char U+03E0 (decimal 992)
+   defining Unicode char U+03E1 (decimal 993)
+   defining Unicode char U+03F0 (decimal 1008)
+   defining Unicode char U+03F1 (decimal 1009)
+   defining Unicode char U+03F4 (decimal 1012)
+   defining Unicode char U+03F5 (decimal 1013)
+   defining Unicode char U+1F00 (decimal 7936)
+   defining Unicode char U+1F01 (decimal 7937)
+   defining Unicode char U+1F02 (decimal 7938)
+   defining Unicode char U+1F03 (decimal 7939)
+   defining Unicode char U+1F04 (decimal 7940)
+   defining Unicode char U+1F05 (decimal 7941)
+   defining Unicode char U+1F06 (decimal 7942)
+   defining Unicode char U+1F07 (decimal 7943)
+   defining Unicode char U+1F08 (decimal 7944)
+   defining Unicode char U+1F09 (decimal 7945)
+   defining Unicode char U+1F0A (decimal 7946)
+   defining Unicode char U+1F0B (decimal 7947)
+   defining Unicode char U+1F0C (decimal 7948)
+   defining Unicode char U+1F0D (decimal 7949)
+   defining Unicode char U+1F0E (decimal 7950)
+   defining Unicode char U+1F0F (decimal 7951)
+   defining Unicode char U+1F10 (decimal 7952)
+   defining Unicode char U+1F11 (decimal 7953)
+   defining Unicode char U+1F12 (decimal 7954)
+   defining Unicode char U+1F13 (decimal 7955)
+   defining Unicode char U+1F14 (decimal 7956)
+   defining Unicode char U+1F15 (decimal 7957)
+   defining Unicode char U+1F18 (decimal 7960)
+   defining Unicode char U+1F19 (decimal 7961)
+   defining Unicode char U+1F1A (decimal 7962)
+   defining Unicode char U+1F1B (decimal 7963)
+   defining Unicode char U+1F1C (decimal 7964)
+   defining Unicode char U+1F1D (decimal 7965)
+   defining Unicode char U+1F20 (decimal 7968)
+   defining Unicode char U+1F21 (decimal 7969)
+   defining Unicode char U+1F22 (decimal 7970)
+   defining Unicode char U+1F23 (decimal 7971)
+   defining Unicode char U+1F24 (decimal 7972)
+   defining Unicode char U+1F25 (decimal 7973)
+   defining Unicode char U+1F26 (decimal 7974)
+   defining Unicode char U+1F27 (decimal 7975)
+   defining Unicode char U+1F28 (decimal 7976)
+   defining Unicode char U+1F29 (decimal 7977)
+   defining Unicode char U+1F2A (decimal 7978)
+   defining Unicode char U+1F2B (decimal 7979)
+   defining Unicode char U+1F2C (decimal 7980)
+   defining Unicode char U+1F2D (decimal 7981)
+   defining Unicode char U+1F2E (decimal 7982)
+   defining Unicode char U+1F2F (decimal 7983)
+   defining Unicode char U+1F30 (decimal 7984)
+   defining Unicode char U+1F31 (decimal 7985)
+   defining Unicode char U+1F32 (decimal 7986)
+   defining Unicode char U+1F33 (decimal 7987)
+   defining Unicode char U+1F34 (decimal 7988)
+   defining Unicode char U+1F35 (decimal 7989)
+   defining Unicode char U+1F36 (decimal 7990)
+   defining Unicode char U+1F37 (decimal 7991)
+   defining Unicode char U+1F38 (decimal 7992)
+   defining Unicode char U+1F39 (decimal 7993)
+   defining Unicode char U+1F3A (decimal 7994)
+   defining Unicode char U+1F3B (decimal 7995)
+   defining Unicode char U+1F3C (decimal 7996)
+   defining Unicode char U+1F3D (decimal 7997)
+   defining Unicode char U+1F3E (decimal 7998)
+   defining Unicode char U+1F3F (decimal 7999)
+   defining Unicode char U+1F40 (decimal 8000)
+   defining Unicode char U+1F41 (decimal 8001)
+   defining Unicode char U+1F42 (decimal 8002)
+   defining Unicode char U+1F43 (decimal 8003)
+   defining Unicode char U+1F44 (decimal 8004)
+   defining Unicode char U+1F45 (decimal 8005)
+   defining Unicode char U+1F48 (decimal 8008)
+   defining Unicode char U+1F49 (decimal 8009)
+   defining Unicode char U+1F4A (decimal 8010)
+   defining Unicode char U+1F4B (decimal 8011)
+   defining Unicode char U+1F4C (decimal 8012)
+   defining Unicode char U+1F4D (decimal 8013)
+   defining Unicode char U+1F50 (decimal 8016)
+   defining Unicode char U+1F51 (decimal 8017)
+   defining Unicode char U+1F52 (decimal 8018)
+   defining Unicode char U+1F53 (decimal 8019)
+   defining Unicode char U+1F54 (decimal 8020)
+   defining Unicode char U+1F55 (decimal 8021)
+   defining Unicode char U+1F56 (decimal 8022)
+   defining Unicode char U+1F57 (decimal 8023)
+   defining Unicode char U+1F59 (decimal 8025)
+   defining Unicode char U+1F5B (decimal 8027)
+   defining Unicode char U+1F5D (decimal 8029)
+   defining Unicode char U+1F5F (decimal 8031)
+   defining Unicode char U+1F60 (decimal 8032)
+   defining Unicode char U+1F61 (decimal 8033)
+   defining Unicode char U+1F62 (decimal 8034)
+   defining Unicode char U+1F63 (decimal 8035)
+   defining Unicode char U+1F64 (decimal 8036)
+   defining Unicode char U+1F65 (decimal 8037)
+   defining Unicode char U+1F66 (decimal 8038)
+   defining Unicode char U+1F67 (decimal 8039)
+   defining Unicode char U+1F68 (decimal 8040)
+   defining Unicode char U+1F69 (decimal 8041)
+   defining Unicode char U+1F6A (decimal 8042)
+   defining Unicode char U+1F6B (decimal 8043)
+   defining Unicode char U+1F6C (decimal 8044)
+   defining Unicode char U+1F6D (decimal 8045)
+   defining Unicode char U+1F6E (decimal 8046)
+   defining Unicode char U+1F6F (decimal 8047)
+   defining Unicode char U+1F70 (decimal 8048)
+   defining Unicode char U+1F71 (decimal 8049)
+   defining Unicode char U+1F72 (decimal 8050)
+   defining Unicode char U+1F73 (decimal 8051)
+   defining Unicode char U+1F74 (decimal 8052)
+   defining Unicode char U+1F75 (decimal 8053)
+   defining Unicode char U+1F76 (decimal 8054)
+   defining Unicode char U+1F77 (decimal 8055)
+   defining Unicode char U+1F78 (decimal 8056)
+   defining Unicode char U+1F79 (decimal 8057)
+   defining Unicode char U+1F7A (decimal 8058)
+   defining Unicode char U+1F7B (decimal 8059)
+   defining Unicode char U+1F7C (decimal 8060)
+   defining Unicode char U+1F7D (decimal 8061)
+   defining Unicode char U+1F80 (decimal 8064)
+   defining Unicode char U+1F81 (decimal 8065)
+   defining Unicode char U+1F82 (decimal 8066)
+   defining Unicode char U+1F83 (decimal 8067)
+   defining Unicode char U+1F84 (decimal 8068)
+   defining Unicode char U+1F85 (decimal 8069)
+   defining Unicode char U+1F86 (decimal 8070)
+   defining Unicode char U+1F87 (decimal 8071)
+   defining Unicode char U+1F88 (decimal 8072)
+   defining Unicode char U+1F89 (decimal 8073)
+   defining Unicode char U+1F8A (decimal 8074)
+   defining Unicode char U+1F8B (decimal 8075)
+   defining Unicode char U+1F8C (decimal 8076)
+   defining Unicode char U+1F8D (decimal 8077)
+   defining Unicode char U+1F8E (decimal 8078)
+   defining Unicode char U+1F8F (decimal 8079)
+   defining Unicode char U+1F90 (decimal 8080)
+   defining Unicode char U+1F91 (decimal 8081)
+   defining Unicode char U+1F92 (decimal 8082)
+   defining Unicode char U+1F93 (decimal 8083)
+   defining Unicode char U+1F94 (decimal 8084)
+   defining Unicode char U+1F95 (decimal 8085)
+   defining Unicode char U+1F96 (decimal 8086)
+   defining Unicode char U+1F97 (decimal 8087)
+   defining Unicode char U+1F98 (decimal 8088)
+   defining Unicode char U+1F99 (decimal 8089)
+   defining Unicode char U+1F9A (decimal 8090)
+   defining Unicode char U+1F9B (decimal 8091)
+   defining Unicode char U+1F9C (decimal 8092)
+   defining Unicode char U+1F9D (decimal 8093)
+   defining Unicode char U+1F9E (decimal 8094)
+   defining Unicode char U+1F9F (decimal 8095)
+   defining Unicode char U+1FA0 (decimal 8096)
+   defining Unicode char U+1FA1 (decimal 8097)
+   defining Unicode char U+1FA2 (decimal 8098)
+   defining Unicode char U+1FA3 (decimal 8099)
+   defining Unicode char U+1FA4 (decimal 8100)
+   defining Unicode char U+1FA5 (decimal 8101)
+   defining Unicode char U+1FA6 (decimal 8102)
+   defining Unicode char U+1FA7 (decimal 8103)
+   defining Unicode char U+1FA8 (decimal 8104)
+   defining Unicode char U+1FA9 (decimal 8105)
+   defining Unicode char U+1FAA (decimal 8106)
+   defining Unicode char U+1FAB (decimal 8107)
+   defining Unicode char U+1FAC (decimal 8108)
+   defining Unicode char U+1FAD (decimal 8109)
+   defining Unicode char U+1FAE (decimal 8110)
+   defining Unicode char U+1FAF (decimal 8111)
+   defining Unicode char U+1FB0 (decimal 8112)
+   defining Unicode char U+1FB1 (decimal 8113)
+   defining Unicode char U+1FB2 (decimal 8114)
+   defining Unicode char U+1FB3 (decimal 8115)
+   defining Unicode char U+1FB4 (decimal 8116)
+   defining Unicode char U+1FB6 (decimal 8118)
+   defining Unicode char U+1FB7 (decimal 8119)
+   defining Unicode char U+1FB8 (decimal 8120)
+   defining Unicode char U+1FB9 (decimal 8121)
+   defining Unicode char U+1FBA (decimal 8122)
+   defining Unicode char U+1FBB (decimal 8123)
+   defining Unicode char U+1FBC (decimal 8124)
+   defining Unicode char U+1FBD (decimal 8125)
+   defining Unicode char U+1FBE (decimal 8126)
+   defining Unicode char U+1FBF (decimal 8127)
+   defining Unicode char U+1FC0 (decimal 8128)
+   defining Unicode char U+1FC1 (decimal 8129)
+   defining Unicode char U+1FC2 (decimal 8130)
+   defining Unicode char U+1FC3 (decimal 8131)
+   defining Unicode char U+1FC4 (decimal 8132)
+   defining Unicode char U+1FC6 (decimal 8134)
+   defining Unicode char U+1FC7 (decimal 8135)
+   defining Unicode char U+1FC8 (decimal 8136)
+   defining Unicode char U+1FC9 (decimal 8137)
+   defining Unicode char U+1FCA (decimal 8138)
+   defining Unicode char U+1FCB (decimal 8139)
+   defining Unicode char U+1FCC (decimal 8140)
+   defining Unicode char U+1FCD (decimal 8141)
+   defining Unicode char U+1FCE (decimal 8142)
+   defining Unicode char U+1FCF (decimal 8143)
+   defining Unicode char U+1FD0 (decimal 8144)
+   defining Unicode char U+1FD1 (decimal 8145)
+   defining Unicode char U+1FD2 (decimal 8146)
+   defining Unicode char U+1FD3 (decimal 8147)
+   defining Unicode char U+1FD6 (decimal 8150)
+   defining Unicode char U+1FD7 (decimal 8151)
+   defining Unicode char U+1FD8 (decimal 8152)
+   defining Unicode char U+1FD9 (decimal 8153)
+   defining Unicode char U+1FDA (decimal 8154)
+   defining Unicode char U+1FDB (decimal 8155)
+   defining Unicode char U+1FDD (decimal 8157)
+   defining Unicode char U+1FDE (decimal 8158)
+   defining Unicode char U+1FDF (decimal 8159)
+   defining Unicode char U+1FE0 (decimal 8160)
+   defining Unicode char U+1FE1 (decimal 8161)
+   defining Unicode char U+1FE2 (decimal 8162)
+   defining Unicode char U+1FE3 (decimal 8163)
+   defining Unicode char U+1FE4 (decimal 8164)
+   defining Unicode char U+1FE5 (decimal 8165)
+   defining Unicode char U+1FE6 (decimal 8166)
+   defining Unicode char U+1FE7 (decimal 8167)
+   defining Unicode char U+1FE8 (decimal 8168)
+   defining Unicode char U+1FE9 (decimal 8169)
+   defining Unicode char U+1FEA (decimal 8170)
+   defining Unicode char U+1FEB (decimal 8171)
+   defining Unicode char U+1FEC (decimal 8172)
+   defining Unicode char U+1FED (decimal 8173)
+   defining Unicode char U+1FEE (decimal 8174)
+   defining Unicode char U+1FEF (decimal 8175)
+   defining Unicode char U+1FF2 (decimal 8178)
+   defining Unicode char U+1FF3 (decimal 8179)
+   defining Unicode char U+1FF4 (decimal 8180)
+   defining Unicode char U+1FF6 (decimal 8182)
+   defining Unicode char U+1FF7 (decimal 8183)
+   defining Unicode char U+1FF8 (decimal 8184)
+   defining Unicode char U+1FF9 (decimal 8185)
+   defining Unicode char U+1FFA (decimal 8186)
+   defining Unicode char U+1FFB (decimal 8187)
+   defining Unicode char U+1FFC (decimal 8188)
+   defining Unicode char U+1FFD (decimal 8189)
+   defining Unicode char U+1FFE (decimal 8190)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+10144 (decimal 65860)
+   defining Unicode char U+10145 (decimal 65861)
+   defining Unicode char U+10146 (decimal 65862)
+   defining Unicode char U+10147 (decimal 65863)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
+))
+Package textgreek Info: Loaded fontmap: {eur/*/*}{U/eur/*/*} {phv/*/*}{U/psy/*/
+*}. on input line 69.
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/03/24 3.56 The Babel package
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/03/24 3.56 Babel common definitions
+\babel@savecnt=\count271
+\U@D=\dimen151
+\l@babelnohyphens=\language87
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count272
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel-greek/greek.ldf
+Language: greek 2020/11/10 v1.10 Greek support for the babel system
+\bbl@monogreek=\count273
+\bbl@polygreek=\count274
+\bbl@ancientgreek=\count275
+LaTeX Info: Redefining \& on input line 125.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/was/upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen152
+\captionmargin@=\dimen153
+\captionwidth=\dimen154
+\caption@tempdima=\dimen155
+\caption@indent=\dimen156
+\caption@parindent=\dimen157
+\caption@hangindent=\dimen158
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->{\small \ifx \@captype 
+\xfigure \vskip \abovecaptionskip \fi {\ifturnofflinenums \else \ifnumlines \in
+ternallinenumbers \fi \fi \sbox \@tempboxa {\bf #1.\quad \rm #2}\ifdim \wd \@te
+mpboxa >.9\hsize \bf #1.\quad \rm \relax #2\par \else {\centering \bf #1.\rm \q
+uad #2 \vskip 1sp} \fi } \ifx \@captype \xfigure \else \vskip \belowcaptionskip
+ \fi } on input line 1139.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count276
+\c@continuedfloat=\count277
+Package caption Info: rotating package is loaded.
+)
+\c@subfigure=\count278
+\c@subtable=\count279
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks23
+\XKV@tempa@toks=\toks24
+)
+\XKV@depth=\count280
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box49
+)
+\tc@llx=\dimen159
+\tc@lly=\dimen160
+\tc@urx=\dimen161
+\tc@ury=\dimen162
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen163
+\adjbox@Height=\dimen164
+\adjbox@Depth=\dimen165
+\adjbox@Totalheight=\dimen166
+\adjbox@pwidth=\dimen167
+\adjbox@pheight=\dimen168
+\adjbox@pdepth=\dimen169
+\adjbox@ptotalheight=\dimen170
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count281
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box50
+\sift@deathcycles=\count282
+\@vwid@loff=\dimen171
+\@vwid@roff=\dimen172
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip74
+\multirow@cntb=\count283
+\multirow@dima=\skip75
+\bigstrutjot=\dimen173
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count284
+\lst@gtempboxa=\box51
+\lst@token=\toks25
+\lst@length=\count285
+\lst@currlwidth=\dimen174
+\lst@column=\count286
+\lst@pos=\count287
+\lst@lostspace=\dimen175
+\lst@width=\dimen176
+\lst@newlines=\count288
+\lst@lineno=\count289
+\lst@maxwidth=\dimen177
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count290
+\lst@skipnumbers=\count291
+\lst@framebox=\box52
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count292
+\l__pdf_internal_box=\box53
+)
+(./agujournaltemplate.aux)
+\openout1 = `agujournaltemplate.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 80.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 8
+0.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
+)
+LaTeX Font Info:    ... okay on input line 80.
+
+(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count293
+\scratchdimen=\dimen178
+\scratchbox=\box54
+\nofMPsegments=\count294
+\nofMParguments=\count295
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count296
+\MPscratchDim=\dimen179
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
+\everyMPtoPDFconversion=\toks27
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 80.
+\c@maskedRefs=\count299
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/apacite/english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count300
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 111.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 111.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 113.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 113.
+ [1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 205.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 205.
+
+
+Overfull \hbox (18.5435pt too wide) in paragraph at lines 206--207
+[]\OT1/cmr/m/n/10 The vari-abil-ity and sub-jec-tiv-ity in Fourier Trans-form I
+n-frared Spec-troscopy (FTIR) 
+ []
+
+
+Overfull \hbox (20.98798pt too wide) in paragraph at lines 206--207
+\OT1/cmr/m/n/10 base-line fit-ting tech-niques con-sti-tutes a ma-jor un-cer-ta
+inty in the de-ter-mi-na-tion of volatile 
+ []
+
+
+Overfull \hbox (5.40459pt too wide) in paragraph at lines 206--207
+\OT1/cmr/m/n/10 con-cen-tra-tions. We de-velop quan-tifi-able and re-pro-ducibl
+e ap-proaches to defin-ing base- 
+ []
+
+
+Overfull \hbox (7.15454pt too wide) in paragraph at lines 206--207
+\OT1/cmr/m/n/10 lines be-neath each H$[]$O and CO$[]$ species peak to de-ter-mi
+ne con-cen-tra-tions with mean- 
+ []
+
+
+Overfull \hbox (11.71005pt too wide) in paragraph at lines 206--207
+\OT1/cmr/m/n/10 ing-ful un-cer-tain-ties, un-like most FTIR stud-ies, where bas
+e-lines are fit by eye, spline, in- 
+ []
+
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 2
+09.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 209.
+
+Overfull \hbox (9.6815pt too wide) in paragraph at lines 209--210
+[]\OT1/cmr/m/n/10 The \LGR/cmr/m/n/10 e$[]$ \OT1/cmr/m/n/10 peak can be well qu
+an-ti-fied with a lin-ear to near-linear base-line be- 
+ []
+
+
+Overfull \hbox (5.98787pt too wide) in paragraph at lines 209--210
+\OT1/cmr/m/n/10 tween the two ab-sorbance min-ima on ei-ther side of peak when 
+the peak is un-sat-u-rated 
+ []
+
+
+Overfull \hbox (5.68243pt too wide) in paragraph at lines 209--210
+\OT1/cmr/m/n/10 with a raw ab-sorbance of \OML/cmm/m/it/10 <\OT1/cmr/m/n/10 2  
+[]Dixon & Stolper, 1995; von Aulock et al.[], 2014). When 
+ []
+
+
+Overfull \hbox (7.4596pt too wide) in paragraph at lines 209--210
+\LGR/cmr/m/n/10 e$[]$ \OT1/cmr/m/n/10 is sat-u-rated, the com-bi-na-tion of H$[
+]$O$[]$ or the H$[]$O$[]$ and the OH$[]$ 
+ []
+
+
+Overfull \hbox (15.61299pt too wide) in paragraph at lines 209--210
+\OT1/cmr/m/n/10 must be used in-stead. The H$[]$O$[]$ and OH$[]$ peaks can be f
+it with a lin-ear to near- 
+ []
+
+
+Overfull \hbox (6.83513pt too wide) in paragraph at lines 209--210
+\OT1/cmr/m/n/10 linear base-line, or a base-line con-sist-ing of two Gaus-sians
+ []Ohlhorst et al.[], 2001; Sta-bile 
+ []
+
+
+Overfull \hbox (11.1546pt too wide) in paragraph at lines 209--210
+\OT1/cmr/m/n/10 et al.[], 2020; Stolper, 1982; With-ers & Behrens, 1999). The l
+in-ear to near-linear base-line 
+ []
+
+
+Overfull \hbox (18.21024pt too wide) in paragraph at lines 209--210
+\OT1/cmr/m/n/10 is ad-van-ta-geous given the re-pro-ducibil-ity of peak heights
+ but can un-der-es-ti-mate the peak 
+ []
+
+
+Overfull \hbox (27.25185pt too wide) in paragraph at lines 209--210
+\OT1/cmr/m/n/10 height or area given the pres-ence of iron and water-related ba
+nds ($\OMS/cmsy/m/n/10 ^^X$\OT1/cmr/m/n/10 5700 and $\OMS/cmsy/m/n/10 ^^X$\OT1/
+cmr/m/n/10 4000 cm$[]$, 
+ []
+
+
+Overfull \hbox (14.73792pt too wide) in paragraph at lines 209--210
+\OT1/cmr/m/n/10 re-spec-tively) in dacitic to basaltic com-po-si-tions []Ohlhor
+st et al.[], 2001). The species con- 
+ []
+
+
+Overfull \hbox (14.93243pt too wide) in paragraph at lines 209--210
+\OT1/cmr/m/n/10 cen-tra-tion of H$[]$O$[]$ and OH$[]$ by the two Gaus-sian meth
+od agrees well with NMR 
+ []
+
+
+Overfull \hbox (10.59901pt too wide) in paragraph at lines 209--210
+\OT1/cmr/m/n/10 spec-troscopy but is highly sen-si-tive to raw ab-sorbance and 
+can be dif-fi-cult to re-pro-duce 
+ []
+
+
+Overfull \hbox (5.36226pt too wide) in paragraph at lines 209--210
+\OT1/cmr/m/n/10 across stud-ies []Ohlhorst et al.[], 2001). The \LGR/cmr/m/n/10
+ e$[]$\OT1/cmr/m/n/10 , H$[]$O$[]$, and OH$[]$ base-lines 
+ []
+
+
+Overfull \hbox (7.12683pt too wide) in paragraph at lines 209--210
+\OT1/cmr/m/n/10 are thus fit with the asym-met-ric least squares (ALS) method, 
+it-er-a-tively solv-ing for an 
+ []
+
+
+Overfull \hbox (9.98796pt too wide) in paragraph at lines 209--210
+\OT1/cmr/m/n/10 in-ter-po-lated fit-ting which bal-ances smooth-ness and asym-m
+e-try []Eilers, 2004; Lee et al.[], 
+ []
+
+
+Overfull \hbox (4.40459pt too wide) in paragraph at lines 211--212
+[]\OT1/cmr/m/n/10 The H$[]$O$[]$ peak and CO$[]$ dou-blet peaks pose greater ch
+al-lenges due to the 
+ []
+
+
+Overfull \hbox (10.50174pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 steep and sharp in-crease of base-line ab-sorbance at wavenum-b
+ers lower than 1430 cm$[]$. 
+ []
+
+
+Overfull \hbox (4.0714pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 Fur-ther-more, the con-vo-lu-tion of the tails of the H$[]$O$[]
+$ and the CO$[]$1515 dou-blet 
+ []
+
+
+Overfull \hbox (9.73792pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 peak in melt in-clu-sion spec-tra fur-ther com-pli-cates the ap
+-pro-pri-ate base-lines in the near 
+ []
+
+
+Overfull \hbox (0.84912pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 in-frared re-gion. Base-lines be-neath the H$[]$O$[]$ and CO$[]
+$ dou-blet peaks have been 
+ []
+
+
+Overfull \hbox (6.32127pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 ap-prox-i-mated with the spec-tra of de-volatilized sam-ples wi
+th sim-i-lar chem-i-cal com-po-si- 
+ []
+
+
+Overfull \hbox (17.90468pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 tions []Dixon et al.[], 1988; New-man et al.[], 2000), splines 
+and flex-i-curves []Dixon & Stolper, 
+ []
+
+
+Overfull \hbox (1.15462pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 1995), and other curve func-tions []Dixon & Clague, 2001). We a
+s-sess the fun-da-men-tal 
+ []
+
+
+Overfull \hbox (8.93248pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 shape and vari-abil-ity of the base-line us-ing prin-ci-pal com
+-po-nent anal-y-sis (PCA) ap-plied 
+ []
+
+
+Overfull \hbox (7.2102pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 to a database of ab-sorbance spec-tra for volatile-poor melt in
+-clu-sions from the Aleu-tian 
+ []
+
+
+Overfull \hbox (6.57123pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 arc []Rasmussen, 2019) and MORB glasses []Newman et al.[], 2000
+). This dataset of nat- 
+ []
+
+
+Overfull \hbox (8.26572pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 u-rally de-volatilized spec-tra is rel-e-vant to a wide range o
+f arc and MORB com-po-si-tions. 
+ []
+
+
+Overfull \hbox (6.96014pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 The ap-pli-ca-tion of PCA to a train-ing dataset of de-volatili
+zed spec-tra al-lows for the as- 
+ []
+
+
+Overfull \hbox (4.48788pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 sess-ment of the fun-da-men-tal shape of the base-line and the 
+spec-tral fea-tures con-tribut- 
+ []
+
+
+Overfull \hbox (1.12689pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 ing to vari-abil-ity []Carvajal et al.[], 2016). We de-velop an
+d present a method for fit-ting 
+ []
+
+
+Overfull \hbox (16.26584pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 base-lines and peaks with un-cer-tain-ties for the H$[]$OT, H$[
+]$O$[]$, and OH$[]$ peaks with 
+ []
+
+
+Overfull \hbox (5.87685pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 re-peat asym-met-ric least squares base-lines and the H$[]$O$[]
+$ peak and the CO$[]$ dou- 
+ []
+
+
+Overfull \hbox (16.3213pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 blet peaks with Bayesian statis-tics and a Python Multi-Core Ma
+rkov Chain Monte Carlo 
+ []
+
+
+Overfull \hbox (20.4879pt too wide) in paragraph at lines 215--216
+[]\OT1/cmr/m/n/10 Natural glass stan-dards and olivine-hosted melt in-clu-sions
+ (MIs) were an-a-lyzed with 
+ []
+
+
+Overfull \hbox (3.87677pt too wide) in paragraph at lines 215--216
+\OT1/cmr/m/n/10 the Thermo Sci-en-tific Nico-let iN10 MX Fourier Trans-form In-
+frared (FTIR) Spec-trom- 
+ []
+
+
+Overfull \hbox (8.57123pt too wide) in paragraph at lines 215--216
+\OT1/cmr/m/n/10 e-ter at the Lamont-Doherty Earth Ob-ser-va-tory. Trans-mis-sio
+n FTIR spec-troscopy mea- 
+ []
+
+
+Overfull \hbox (10.96016pt too wide) in paragraph at lines 215--216
+\OT1/cmr/m/n/10 sures the amount of light ab-sorbed at each wave-length, al-low
+-ing for the recog-ni-tion and 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Overfull \hbox (14.10706pt too wide) in paragraph at lines 218--220
+\OT1/cmr/m/n/10 where $\OML/cmm/m/it/10 c$ \OT1/cmr/m/n/10 is con-cen-tra-tion,
+ $\OML/cmm/m/it/10 A$ \OT1/cmr/m/n/10 is ab-sorbance, $\OML/cmm/m/it/10 M$ \OT1
+/cmr/m/n/10 is the mo-lar mass of the ab-sorb-ing volatile 
+ []
+
+
+Overfull \hbox (16.02856pt too wide) in paragraph at lines 218--220
+\OT1/cmr/m/n/10 species (g$\OMS/cmsy/m/n/10 ^^A$\OT1/cmr/m/n/10 mol$[]$), \LGR/
+cmr/m/n/10 e \OT1/cmr/m/n/10 is the ab-sorp-tiv-ity of the species (L$\OMS/cmsy
+/m/n/10 ^^A$\OT1/cmr/m/n/10 mol$[]\OMS/cmsy/m/n/10 ^^A$ \OT1/cmr/m/n/10 cm), $\
+OML/cmm/m/it/10 l$ \OT1/cmr/m/n/10 is the op-ti-cal path 
+ []
+
+
+Overfull \hbox (0.30618pt too wide) in paragraph at lines 218--220
+\OT1/cmr/m/n/10 length or thick-ness (cm), and \LGR/cmr/m/n/10 r \OT1/cmr/m/n/1
+0 is den-sity (kg$\OMS/cmsy/m/n/10 ^^A$\OT1/cmr/m/n/10 m$[]$). Lin-ear re-la-ti
+on-ships be-tween ab- 
+ []
+
+
+Overfull \hbox (9.87685pt too wide) in paragraph at lines 218--220
+\OT1/cmr/m/n/10 sorbance and con-cen-tra-tion dom-i-nate. Non-linear re-la-tion
+-ships can be in-tro-duced when 
+ []
+
+
+Overfull \hbox (20.57118pt too wide) in paragraph at lines 218--220
+\OT1/cmr/m/n/10 in-creased sam-ple thick-nesses re-sult in in-suf-fi-cient ligh
+t trans-mis-sion to the de-tec-tor, push- 
+ []
+
+
+Overfull \hbox (7.36299pt too wide) in paragraph at lines 218--220
+\OT1/cmr/m/n/10 ing peaks to be-come sat-u-rated as with $[]$ []McIntosh et al.
+[], 2017; von Aulock et 
+ []
+
+
+Overfull \hbox (14.82117pt too wide) in paragraph at lines 221--222
+[]\OT1/cmr/m/n/10 Glass stan-dards and MIs were placed on a CaF$[]$ plate withi
+n the sam-ple holder for 
+ []
+
+
+Overfull \hbox (21.90459pt too wide) in paragraph at lines 221--222
+\OT1/cmr/m/n/10 mea-sure-ment of IR ab-sorbance dur-ing trans-mis-sion in the d
+e-tec-tor spec-tral range of 8000- 
+ []
+
+
+Overfull \hbox (15.41833pt too wide) in paragraph at lines 221--222
+\OT1/cmr/m/n/10 450 wavenum-bers (cm$[]$). The FTIR was purged for twenty min-u
+tes to de-crease the sig- 
+ []
+
+
+Overfull \hbox (8.50177pt too wide) in paragraph at lines 221--222
+\OT1/cmr/m/n/10 nal of at-mo-spheric H$[]$O and CO$[]$. Glasses and MIs were ma
+pped for ab-sorbance to de- 
+ []
+
+
+Overfull \hbox (6.6824pt too wide) in paragraph at lines 221--222
+\OT1/cmr/m/n/10 ter-mine po-ten-tial het-ero-gene-ity in volatile con-cen-tra-t
+ions and to de-ter-mine the bound- 
+ []
+
+
+Overfull \hbox (5.34898pt too wide) in paragraph at lines 221--222
+\OT1/cmr/m/n/10 aries of mea-sure-ment | par-tic-u-larly for MI to en-sure dou-
+ble in-ter-sec-tion. Ab-sorbance 
+ []
+
+
+Overfull \hbox (13.18098pt too wide) in paragraph at lines 221--222
+\OT1/cmr/m/n/10 maps were gen-er-ated at a point spac-ing of 10$\OMS/cmsy/m/n/1
+0 ^^B$\OT1/cmr/m/n/10 10 \TS1/cmr/m/n/10 �\OT1/cmr/m/n/10 m, with 16 scans take
+n at each point 
+ []
+
+
+Overfull \hbox (2.3073pt too wide) in paragraph at lines 221--222
+\OT1/cmr/m/n/10 at a res-o-lu-tion of 16 cm$[]$. The rel-a-tively few scans and
+ low res-o-lu-tion were bal-anced 
+ []
+
+
+Overfull \hbox (25.90472pt too wide) in paragraph at lines 221--222
+\OT1/cmr/m/n/10 to yield man-age-able map-ping times of ap-prox-i-mately 15 min
+-utes for each MI. Maps guided 
+ []
+
+
+Overfull \hbox (4.23784pt too wide) in paragraph at lines 221--222
+\OT1/cmr/m/n/10 the se-lec-tion of op-ti-mal re-gions for volatile anal-y-ses. 
+Three re-peat mea-sure-ments were 
+ []
+
+
+Overfull \hbox (14.72392pt too wide) in paragraph at lines 221--222
+\OT1/cmr/m/n/10 col-lected for each glass stan-dard or MI, with 256 col-lec-tio
+n scans at 4 cm$[]$ spec-tral res- 
+ []
+
+
+Overfull \hbox (6.8907pt too wide) in paragraph at lines 221--222
+\OT1/cmr/m/n/10 o-lu-tion. Back-ground scans were col-lected un-der the same co
+n-di-tions through the CaF$[]$ 
+ []
+
+
+Overfull \hbox (18.51288pt too wide) in paragraph at lines 221--222
+\OT1/cmr/m/n/10 plate. Aper-ture sizes (30-200 \TS1/cmr/m/n/10 �\OT1/cmr/m/n/10
+ m for glass stan-dards and 15-50 \TS1/cmr/m/n/10 �\OT1/cmr/m/n/10 m for MIs) w
+ere se-lected 
+ []
+
+
+Overfull \hbox (6.18245pt too wide) in paragraph at lines 221--222
+\OT1/cmr/m/n/10 to max-i-mize an-a-lyt-i-cal area and to en-sure that light pro
+p-a-gated solely through the MI 
+ []
+
+
+Overfull \hbox (0.80745pt too wide) in paragraph at lines 221--222
+\OT1/cmr/m/n/10 with-out in-clud-ing the host olivine. The Happ-Genzel apodiza-
+tion func-tion within the 
+ []
+
+
+Overfull \hbox (5.04338pt too wide) in paragraph at lines 221--222
+\OT1/cmr/m/n/10 Thermo-Nicolet OM-NIC Picta soft-ware was ap-plied to each spec
+-trum to main-tain res- 
+ []
+
+
+Overfull \hbox (6.5989pt too wide) in paragraph at lines 221--222
+\OT1/cmr/m/n/10 o-lu-tion and re-duce noise. Three re-peat mea-sure-ments were 
+taken for each MI. In-ter-nal 
+ []
+
+
+Overfull \hbox (10.02965pt too wide) in paragraph at lines 221--222
+\OT1/cmr/m/n/10 stan-dards of sub-ma-rine arc lava GH88-1-D1010 an-a-lyzed by [
+]Newman et al.[] (2000) with 
+ []
+
+
+Overfull \hbox (8.14908pt too wide) in paragraph at lines 221--222
+\OT1/cmr/m/n/10 FTIR and basaltic MIs CN[]C[]OL1', CN92C[]OL2, and ETF46 an-a-l
+yzed by []Barth et al.[] 
+ []
+
+
+Overfull \hbox (15.96019pt too wide) in paragraph at lines 221--222
+\OT1/cmr/m/n/10 (2019) and []Barth (2021) with SIMS were mea-sured at the be-gi
+n-ning and end of each an- 
+ []
+
+
+Overfull \hbox (21.5989pt too wide) in paragraph at lines 224--225
+[]\OT1/cmr/m/n/10 Three re-peat thick-ness mea-sure-ments of olivine-hosted mel
+t in-clu-sions were ac-quired 
+ []
+
+
+Overfull \hbox (7.29349pt too wide) in paragraph at lines 224--225
+\OT1/cmr/m/n/10 us-ing a Mi-tu-toyo 543-783B Digi-matic In-di-ca-tor, as well a
+s with the re-flectance method 
+ []
+
+
+Overfull \hbox (2.54344pt too wide) in paragraph at lines 224--225
+\OT1/cmr/m/n/10 de-scribed by []Nichols and Wysoczan-ski (2007). Wave-lengths o
+f in-ter-fer-ence fringes are 
+ []
+
+
+Overfull \hbox (39.48805pt too wide) in paragraph at lines 224--225
+\OT1/cmr/m/n/10 pro-por-tional to the thick-ness and re-frac-tive in-dex of the
+ sam-ple for thin sil-ica films []Nishikida 
+ []
+
+
+Overfull \hbox (7.79356pt too wide) in paragraph at lines 224--225
+\OT1/cmr/m/n/10 et al.[], 1996; Tamic et al.[], 2001; Wysoczan-ski & Tani, 2006
+; Sun et al.[], 2007). []Nishikida 
+ []
+
+
+LaTeX Warning: Citation `DuncanandDasgupta2015' undefined on input line 228.
+
+
+Overfull \hbox (1.08736pt too wide) in paragraph at lines 227--229
+\OT1/cmr/m/n/10 where $\OML/cmm/m/it/10 l$ \OT1/cmr/m/n/10 is the thick-ness of
+ area an-a-lyzed, $\OML/cmm/m/it/10 m$ \OT1/cmr/m/n/10 is the num-ber of fringe
+s in the wavenum- 
+ []
+
+
+Overfull \hbox (1.46245pt too wide) in paragraph at lines 227--229
+\OT1/cmr/m/n/10 ber range, $\OML/cmm/m/it/10 n$ \OT1/cmr/m/n/10 is the re-frac-
+tive in-dex of the ma-te-rial, and $\OML/cmm/m/it/10 v[]$ \OT1/cmr/m/n/10 and $
+\OML/cmm/m/it/10 v[]$ \OT1/cmr/m/n/10 are the high-est and 
+ []
+
+
+Overfull \hbox (16.12671pt too wide) in paragraph at lines 227--229
+\OT1/cmr/m/n/10 low-est wavenum-bers in the in-ter-val. In-ter-fer-ence fringes
+ are pro-duced by the in-ter-ac-tions 
+ []
+
+
+Overfull \hbox (0.68227pt too wide) in paragraph at lines 227--229
+\OT1/cmr/m/n/10 be-tween re-flected light and re-flec-tions in-ter-nal to the s
+am-ple, with fringe wave-lengths 
+ []
+
+
+Overfull \hbox (25.51566pt too wide) in paragraph at lines 227--229
+\OT1/cmr/m/n/10 in-versely pro-por-tional to thick-ness. Two re-flectance spec-
+tra were taken ad-ja-cent to olivine- 
+ []
+
+
+Overfull \hbox (17.72401pt too wide) in paragraph at lines 227--229
+\OT1/cmr/m/n/10 hosted melt in-clu-sions with 256 col-lec-tion scans at 4 cm$[]
+$ spec-tral res-o-lu-tion, with aper- 
+ []
+
+
+Overfull \hbox (9.04204pt too wide) in paragraph at lines 227--229
+\OT1/cmr/m/n/10 ture sizes of 50$\OMS/cmsy/m/n/10 ^^B$\OT1/cmr/m/n/10 50 \TS1/c
+mr/m/n/10 �\OT1/cmr/m/n/10 m. Back-ground scans were col-lected un-der the same
+ con-di-tions on 
+ []
+
+
+Overfull \hbox (16.40457pt too wide) in paragraph at lines 227--229
+\OT1/cmr/m/n/10 a highly re-flec-tive gold plate with a re-flectance co-ef-fi-c
+ient of unity []Nichols & Wysoczan- 
+ []
+
+
+Overfull \hbox (10.73798pt too wide) in paragraph at lines 227--229
+\OT1/cmr/m/n/10 ski, 2007). The basaltic glass re-frac-tive in-dex is quan-ti-f
+ied to be 1.546 []Kumagai & Ka- 
+ []
+
+
+Overfull \hbox (5.21011pt too wide) in paragraph at lines 227--229
+\OT1/cmr/m/n/10 neoka, 2003). The rhy-olitic glass re-frac-tive in-dex is not a
+s well quan-ti-fied, show-ing ad- 
+ []
+
+
+Overfull \hbox (6.01817pt too wide) in paragraph at lines 227--229
+\OT1/cmr/m/n/10 di-tional vari-abil-ity and span-ning the range of 1.48\OML/cmm
+/m/it/10 <$n$<\OT1/cmr/m/n/10 1.51 []Tr^^?oger et al.[], 1959; Tamic 
+ []
+
+
+Overfull \hbox (17.0435pt too wide) in paragraph at lines 227--229
+\OT1/cmr/m/n/10 et al.[], 2001). Re-frac-tive in-dices for glasses of vari-able
+ com-po-si-tion can be cal-i-brated with 
+ []
+
+
+Overfull \hbox (9.40459pt too wide) in paragraph at lines 227--229
+\OT1/cmr/m/n/10 the dig-i-tal mi-crom-e-ter []?, ?; Tamic et al.[], 2001). The 
+olivine mean re-frac-tive in-dex, av- 
+ []
+
+
+Overfull \hbox (18.9323pt too wide) in paragraph at lines 227--229
+\OT1/cmr/m/n/10 er-aged across the three crys-tal-lo-graphic axes, was de-ter-m
+ined with the av-er-age Fo$[]$ com- 
+ []
+
+
+Overfull \hbox (38.79353pt too wide) in paragraph at lines 227--229
+\OT1/cmr/m/n/10 po-si-tion for spots ad-ja-cent to melt in-clu-sions us-ing the
+ lin-ear re-la-tion-ships de-scribed in []Howie 
+ []
+
+[3]
+Overfull \hbox (12.79337pt too wide) in paragraph at lines 231--232
+[]\OT1/cmr/m/n/10 Major and trace el-e-ments in glass and olivine were an-a-lyz
+ed by wave-length dis-per- 
+ []
+
+
+Overfull \hbox (14.73785pt too wide) in paragraph at lines 231--232
+\OT1/cmr/m/n/10 sive X-ray spec-troscopy with the Cameca SXFive-TACTIS elec-tro
+n mi-cro-probe (EPMA) 
+ []
+
+
+Overfull \hbox (2.9324pt too wide) in paragraph at lines 231--232
+\OT1/cmr/m/n/10 at the Amer-i-can Mu-seum of Nat-u-ral His-tory. Cal-i-bra-tion
+ was com-pleted with nat-u-ral 
+ []
+
+
+Overfull \hbox (1.27948pt too wide) in paragraph at lines 231--232
+\OT1/cmr/m/n/10 and syn-thetic min-eral and ox-ide stan-dards. Glasses were mea
+-sured with an ac-cel-er-at- 
+ []
+
+
+Overfull \hbox (15.90463pt too wide) in paragraph at lines 231--232
+\OT1/cmr/m/n/10 ing volt-age of 15 keV, vari-able work-ing cur-rent of 4 nA, 10
+ nA, and 40 nA, and spot size 
+ []
+
+
+Overfull \hbox (8.01427pt too wide) in paragraph at lines 231--232
+\OT1/cmr/m/n/10 of 10 \TS1/cmr/m/n/10 �\OT1/cmr/m/n/10 m. Du-pli-cate MI anal-y
+-ses were col-lected prox-i-mal to the cen-ter of the in-clu-sion. 
+ []
+
+
+Overfull \hbox (13.51566pt too wide) in paragraph at lines 231--232
+\OT1/cmr/m/n/10 Na was mea-sured with a work-ing cur-rent of 4 nA with 2 s coun
+t-ing on peak and 20 s on 
+ []
+
+
+Overfull \hbox (4.6823pt too wide) in paragraph at lines 231--232
+\OT1/cmr/m/n/10 back-ground to min-i-mize Na loss. Other ma-jor and trace el-e-
+ments were mea-sured with 
+ []
+
+
+Overfull \hbox (11.65459pt too wide) in paragraph at lines 231--232
+\OT1/cmr/m/n/10 a work-ing cur-rent of 10 nA with 30 s count-ing on peak and 15
+ s on back-ground. Fe was 
+ []
+
+
+Overfull \hbox (3.68236pt too wide) in paragraph at lines 231--232
+\OT1/cmr/m/n/10 an-a-lyzed with 20 s count-ing on peak and 15 s on back-ground.
+ Volatiles S and Cl were 
+ []
+
+
+Overfull \hbox (7.21007pt too wide) in paragraph at lines 231--232
+\OT1/cmr/m/n/10 mea-sured with an in-creased work-ing cur-rent of 40 nA. Olivin
+es were mea-sured with an 
+ []
+
+
+Overfull \hbox (10.04353pt too wide) in paragraph at lines 231--232
+\OT1/cmr/m/n/10 ac-cel-er-at-ing volt-age of 15 keV, vari-able work-ing cur-ren
+t of 10 nA and 300 nA, and spot 
+ []
+
+
+Overfull \hbox (5.56851pt too wide) in paragraph at lines 231--232
+\OT1/cmr/m/n/10 size of 1 \TS1/cmr/m/n/10 �\OT1/cmr/m/n/10 m. Du-pli-cate olivi
+ne-host anal-y-ses were col-lected ap-prox-i-mately 15 \TS1/cmr/m/n/10 �\OT1/cm
+r/m/n/10 m from 
+ []
+
+
+Overfull \hbox (9.01566pt too wide) in paragraph at lines 231--232
+\OT1/cmr/m/n/10 the MI. Mg, Si, and Fe were an-a-lyzed with a work-ing cur-rent
+ of 10 nA, and all re-main- 
+ []
+
+
+Overfull \hbox (7.46677pt too wide) in paragraph at lines 231--232
+\OT1/cmr/m/n/10 ing mi-nor and trace el-e-ments were an-a-lyzed with a work-ing
+ cur-rent of 300 nA. \OT1/cmr/bx/n/10 I can't 
+ []
+
+
+Overfull \hbox (4.1769pt too wide) in paragraph at lines 231--232
+\OT1/cmr/bx/n/10 fig-ure out all the count-ing times from the files, need a bit
+ of help with this 
+ []
+
+
+Overfull \hbox (5.20964pt too wide) in paragraph at lines 231--232
+\OT1/cmr/bx/n/10 for ap-pendix\OT1/cmr/m/n/10 . Repli-cate anal-y-ses of the ch
+eck stan-dard MR:ND-70-01 and sec-ondary 
+ []
+
+
+Overfull \hbox (13.69624pt too wide) in paragraph at lines 231--232
+\OT1/cmr/m/n/10 stan-dards San Car-los Olivine and VG-2 were per-formed ev-ery 
+10 anal-y-ses. Col-umn con- 
+ []
+
+
+Overfull \hbox (2.37686pt too wide) in paragraph at lines 231--232
+\OT1/cmr/m/n/10 di-tions and ad-di-tional as-sess-ments of In-stru-men-tal drif
+t, pre-ci-sion, and ac-cu-racy from 
+ []
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+Overfull \hbox (18.51575pt too wide) in paragraph at lines 237--238
+[]\OT1/cmr/m/n/10 PyBaselines can be lo-cally in-stalled with Python ver-sions 
+$\OMS/cmsy/m/n/10 ^^U$ \OT1/cmr/m/n/10 3.6 us-ing the com-mand 
+ []
+
+
+Overfull \hbox (6.44629pt too wide) in paragraph at lines 241--242
+\OT1/cmr/m/n/10 and in-stalled with Google Co-lab and Binder, two cloud-based P
+ython de-vel-op-ment en- 
+ []
+
+
+Overfull \hbox (15.79352pt too wide) in paragraph at lines 249--250
+\OT1/cmr/m/n/10 Functions from Py-Base-lines are then called with the ab-bre-vi
+-ated pack-age name, fol-lowed 
+ []
+
+
+Overfull \hbox (16.15463pt too wide) in paragraph at lines 249--250
+\OT1/cmr/m/n/10 by a dot, fol-lowed by the func-tion name. The func-tion load-i
+ng all spec-trum files is called 
+ []
+
+
+Overfull \hbox (26.04349pt too wide) in paragraph at lines 259--260
+[]\OT1/cmr/m/n/10 We de-velop an au-to-mated im-ple-men-ta-tion for cal-cu-lat-
+ing thick-nesses from re-flectance 
+ []
+
+[4]
+Overfull \hbox (6.82112pt too wide) in paragraph at lines 263--264
+\OT1/cmr/m/n/10 Signal-to-noise ra-tios as-so-ci-ated with in-ter-fer-ence frin
+ges can be low. Re-flectance spec- 
+ []
+
+
+Overfull \hbox (16.46008pt too wide) in paragraph at lines 263--264
+\OT1/cmr/m/n/10 tra are pre-pro-cessed with me-dian fil-ter-ing to re-move po-t
+en-tial sin-gle spike noise and suc- 
+ []
+
+
+Overfull \hbox (10.55742pt too wide) in paragraph at lines 263--264
+\OT1/cmr/m/n/10 ces-sively pro-cessed with Savitzky-Golay fil-ter-ing, fit-ting
+ low-degree poly-no-mi-als to data 
+ []
+
+
+Overfull \hbox (8.75182pt too wide) in paragraph at lines 263--264
+\OT1/cmr/m/n/10 with lin-ear least squares []Savitzky & Go-lay, 1964). Lo-cal e
+x-trema as-so-ci-ated with each 
+ []
+
+
+Overfull \hbox (15.48788pt too wide) in paragraph at lines 263--264
+\OT1/cmr/m/n/10 in-ter-fer-ence fringe wave are lo-cated by iden-ti-fy-ing re-g
+ions of great-est ab-sorbance change. 
+ []
+
+
+Overfull \hbox (27.54355pt too wide) in paragraph at lines 263--264
+\OT1/cmr/m/n/10 Max-ima are sur-rounded by points that are lower in ab-sorbance
+ and min-ima are sur-rounded 
+ []
+
+
+Overfull \hbox (11.0991pt too wide) in paragraph at lines 263--264
+\OT1/cmr/m/n/10 by points that are greater in ab-sorbance. Lo-cal ex-trema iden
+-ti-fi-ca-tion by dif-fer-en-ti-a-tion 
+ []
+
+
+Overfull \hbox (17.29338pt too wide) in paragraph at lines 263--264
+\OT1/cmr/m/n/10 can fail with nois-ier spec-tra. Thick-nesses are cal-cu-lated 
+from the wavenum-ber dif-fer-ences 
+ []
+
+
+Overfull \hbox (29.96022pt too wide) in paragraph at lines 263--264
+\OT1/cmr/m/n/10 be-tween each se-quen-tial group-ing of lo-cal max-ima or min-i
+ma within the in-putted wavenum- 
+ []
+
+
+Overfull \hbox (8.9324pt too wide) in paragraph at lines 265--266
+[]\OT1/cmr/m/n/10 Mean thick-nesses and stan-dard de-vi-a-tions from lo-cal max
+-ima and min-ima are de- 
+ []
+
+
+Overfull \hbox (9.79349pt too wide) in paragraph at lines 265--266
+\OT1/cmr/m/n/10 ter-mined and com-pared against those from dig-i-tal mi-crom-e-
+ter to as-sess the un-cer-tainty 
+ []
+
+
+Overfull \hbox (12.4323pt too wide) in paragraph at lines 265--266
+\OT1/cmr/m/n/10 as-so-ci-ated with this method. Two to eight in-ter-fer-ence fr
+inges in the wavenum-ber range 
+ []
+
+
+Overfull \hbox (0.11292pt too wide) in paragraph at lines 265--266
+\OT1/cmr/m/n/10 of 1700 to 2850 cm$[]$ for Volc^^San de Fuego olivines. In-crea
+s-ing the wavenum-ber range 
+ []
+
+
+Overfull \hbox (21.87689pt too wide) in paragraph at lines 265--266
+\OT1/cmr/m/n/10 com-pared to that of []Nichols and Wysoczan-ski (2007) in-creas
+es the num-ber of high-quality 
+ []
+
+
+Overfull \hbox (6.37674pt too wide) in paragraph at lines 265--266
+\OT1/cmr/m/n/10 in-ter-fer-ence fringe waves while re-pro-duc-ing dig-i-tal mi-
+crom-e-ter mea-sure-ments. Av-er-age 
+ []
+
+
+Overfull \hbox (22.2379pt too wide) in paragraph at lines 265--266
+\OT1/cmr/m/n/10 thick-ness un-cer-tain-ties as-so-ci-ated with five mea-sure-me
+nts is sim-i-lar to pre-vi-ously re-ported 
+ []
+
+
+Overfull \hbox (11.90327pt too wide) in paragraph at lines 265--266
+\OT1/cmr/m/n/10 val-ues at less than 3 \TS1/cmr/m/n/10 �\OT1/cmr/m/n/10 m []All
+ison et al.[], 2019; Nichols & Wysoczan-ski, 2007; von Aulock 
+ []
+
+
+Overfull \hbox (17.65462pt too wide) in paragraph at lines 265--266
+\OT1/cmr/m/n/10 et al.[], 2014). Thick-ness by the re-flectance fringe method w
+as uni-formly greater than that 
+ []
+
+
+Overfull \hbox (5.0713pt too wide) in paragraph at lines 265--266
+\OT1/cmr/m/n/10 by the dig-i-tal mi-crom-e-ter, likely sug-gest-ing that the ol
+ivine re-frac-tive in-dex cal-cu-lated 
+ []
+
+
+Overfull \hbox (18.46014pt too wide) in paragraph at lines 265--266
+\OT1/cmr/m/n/10 from []Howie et al.[] (1992) is too low. Un-cer-tain-ties in th
+e re-frac-tive in-dex may ex-ist, given 
+ []
+
+
+Overfull \hbox (10.93239pt too wide) in paragraph at lines 265--266
+\OT1/cmr/m/n/10 the lack of pa-ram-e-ter-i-za-tion of com-po-si-tion de-pen-den
+ce and the lack of re-cent anal-y-ses.  
+ []
+
+
+Overfull \hbox (9.32014pt too wide) in paragraph at lines 268--269
+[]\OT1/cmr/m/n/10 Molar ab-sorp-tiv-i-ties or ex-tinc-tion co-ef-fi-cients (\LG
+R/cmr/m/n/10 e\OT1/cmr/m/n/10 ) de-ter-mine the in-ten-sity at which 
+ []
+
+
+Overfull \hbox (5.54346pt too wide) in paragraph at lines 268--269
+\OT1/cmr/m/n/10 light at-ten-u-ates when pass-ing through a ma-te-rial and re-l
+ates ab-sorbance to con-cen-tra- 
+ []
+
+
+Overfull \hbox (9.37688pt too wide) in paragraph at lines 268--269
+\OT1/cmr/m/n/10 tion, cal-i-brated by pair-ing anal-y-ses of volatile con-tent 
+by trans-mis-sion FTIR and by an 
+ []
+
+
+Overfull \hbox (9.65363pt too wide) in paragraph at lines 268--269
+\OT1/cmr/m/n/10 ad-di-tional in-de-pen-dent an-a-lyt-i-cal tech-nique. \LGR/cmr
+/m/n/10 e\OT1/cmr/m/n/10 is de-pen-dent on the com-po-si-tion of glass, 
+ []
+
+
+Overfull \hbox (10.84998pt too wide) in paragraph at lines 268--269
+\OT1/cmr/m/n/10 re-lated to both tetra-he-dral cation frac-tion of $\U/eur/m/n/
+10 ^^\$\OT1/cmr/m/n/10 =(Si$[]$+Al$[]$)/(total cations) and cation 
+ []
+
+
+Overfull \hbox (1.19632pt too wide) in paragraph at lines 268--269
+\OT1/cmr/m/n/10 frac-tion of Na$[]$/(Na$[]$+Ca$[]$). We re-fit these ex-tinc-ti
+on co-ef-fi-cients to in-cor-po-rate all 
+ []
+
+
+Overfull \hbox (2.01573pt too wide) in paragraph at lines 268--269
+\OT1/cmr/m/n/10 quan-tifi-ca-tions of ex-tinc-tion co-ef-fi-cients since the la
+st com-pi-la-tion of ex-tinc-tion co-ef-fi- 
+ []
+
+
+Overfull \hbox (9.5017pt too wide) in paragraph at lines 270--271
+[]\OT1/cmr/m/n/10 The ex-tinc-tion co-ef-fi-cients re-lated to H$[]$O species i
+n-crease with tetra-he-dral cation 
+ []
+
+
+Overfull \hbox (8.68315pt too wide) in paragraph at lines 270--271
+\OT1/cmr/m/n/10 frac-tion, $\U/eur/m/n/10 ^^\$\OT1/cmr/m/n/10 , re-flect-ing in
+-creased poly-mer-iza-tion of the glass []Stolper, 1982). Tetra-he-dral 
+ []
+
+
+Overfull \hbox (4.6685pt too wide) in paragraph at lines 270--271
+\OT1/cmr/m/n/10 cations have also been pro-posed to com-pete with non-tetrahedr
+al cations (M = Mg$[]$, 
+ []
+
+
+Overfull \hbox (8.55743pt too wide) in paragraph at lines 270--271
+\OT1/cmr/m/n/10 Ca$[]$, Na$[]$) to bond with free hy-droxyl groups in melt []Me
+rcier et al.[], 2010; Pandya et 
+ []
+
+
+Overfull \hbox (19.32133pt too wide) in paragraph at lines 270--271
+\OT1/cmr/m/n/10 al.[], 1992). More de-poly-mer-ized melts will have higher pro-
+por-tions of free hy-droxyl, which 
+ []
+
+
+Overfull \hbox (8.46716pt too wide) in paragraph at lines 270--271
+\OT1/cmr/m/n/10 trans-lates to more M-(OH)$[]$ bond-ing and hy-dro-gen bond-ing
+ []Mercier et al.[], 2010; Xue, 
+ []
+
+
+Overfull \hbox (6.18245pt too wide) in paragraph at lines 270--271
+\OT1/cmr/m/n/10 2009). []Dixon et al.[] (1995) and []Mandeville et al.[] (2002)
+ demon-strate the de-pen-dence of 
+ []
+
+
+Overfull \hbox (1.12381pt too wide) in paragraph at lines 270--271
+\OT1/cmr/m/n/10 the \LGR/cmr/m/n/10 e$[]$\OT1/cmr/m/n/10 , \LGR/cmr/m/n/10 e$[]
+$\OT1/cmr/m/n/10 , and \LGR/cmr/m/n/10 e$[]$ \OT1/cmr/m/n/10 on glass tetra-he-
+dral cation frac-tion. Tetra- 
+ []
+
+
+Overfull \hbox (17.59834pt too wide) in paragraph at lines 270--271
+\OT1/cmr/m/n/10 he-dral cation frac-tion is sim-i-larly ob-served to be pos-i-t
+ively cor-re-lated with \LGR/cmr/m/n/10 e$[]$\OT1/cmr/m/n/10 , but 
+ []
+
+
+Overfull \hbox (12.68234pt too wide) in paragraph at lines 270--271
+\OT1/cmr/m/n/10 this re-la-tion-ship is less straight-for-ward []Mercier et al.
+[], 2010). Quench tem-per-a-tures and 
+ []
+
+
+Overfull \hbox (24.04364pt too wide) in paragraph at lines 270--271
+\OT1/cmr/m/n/10 rates will drive the for-ma-tion of vari-able pro-por-tions of 
+H$[]$O$[]$ and OH$[]$ []Silver & Stolper, 
+ []
+
+
+Overfull \hbox (3.59828pt too wide) in paragraph at lines 270--271
+\OT1/cmr/m/n/10 1989; Stolper, 1989). \LGR/cmr/m/n/10 e$[]$ \OT1/cmr/m/n/10 has
+ thus been con-sid-ered as a com-bi-na-tion of two end- 
+ []
+
+
+Overfull \hbox (2.27808pt too wide) in paragraph at lines 270--271
+\OT1/cmr/m/n/10 mem-ber ab-sorp-tion co-ef-fi-cients, \LGR/cmr/m/n/10 e$[]$ \OT
+1/cmr/m/n/10 and \LGR/cmr/m/n/10 e$[]$\OT1/cmr/m/n/10 , mul-ti-plied by the rel
+-a-tive pro- 
+ []
+
+
+Overfull \hbox (14.87682pt too wide) in paragraph at lines 270--271
+\OT1/cmr/m/n/10 por-tion of each re-spec-tive species []McIntosh et al.[], 2017
+; New-man et al.[], 1986; Oku-mura 
+ []
+
+
+Overfull \hbox (5.30592pt too wide) in paragraph at lines 270--271
+\OT1/cmr/m/n/10 et al.[], 2003). Stud-ies quan-ti-fy-ing \LGR/cmr/m/n/10 e$[]$ 
+\OT1/cmr/m/n/10 and \LGR/cmr/m/n/10 e$[]$ \OT1/cmr/m/n/10 are the gold stan-dar
+d, but are 
+ []
+
+
+Overfull \hbox (10.98796pt too wide) in paragraph at lines 270--271
+\OT1/cmr/m/n/10 cur-rently lim-ited in com-po-si-tional range; []McIntosh et al
+.[] (2017) con-sid-ered the range of 
+ []
+
+
+Overfull \hbox (11.29425pt too wide) in paragraph at lines 270--271
+\U/eur/m/n/10 ^^\$ \OT1/cmr/m/n/10 = 0.746-0.800, span-ning sili-cic com-po-si-
+tions from rhy-olitic to al-bitic glasses. More ex- 
+ []
+
+
+Overfull \hbox (15.1963pt too wide) in paragraph at lines 270--271
+\OT1/cmr/m/n/10 per-i-ments are needed to prop-erly quan-tify the species-depen
+dent na-ture of the $[]$ 
+ []
+
+[5]
+Overfull \hbox (10.86292pt too wide) in paragraph at lines 272--273
+[] []\OT1/cmr/m/n/10 Dixon and Pan (1995) first demon-strate the de-pen-dence o
+f the CO$[]$ dou-blet ab- 
+ []
+
+
+Overfull \hbox (2.363pt too wide) in paragraph at lines 272--273
+\OT1/cmr/m/n/10 sorp-tion co-ef-fi-cients on the mo-lar or cationic ra-tio of N
+a$[]$/(Na$[]$+Ca$[]$). The pro-por- 
+ []
+
+
+Overfull \hbox (15.16858pt too wide) in paragraph at lines 272--273
+\OT1/cmr/m/n/10 tion of Na$[]$ to Ca$[]$ mod-u-lates the dis-so-lu-tion of C as
+ molec-u-lar CO$[]$ and/or CO$[]$. As 
+ []
+
+
+Overfull \hbox (4.57027pt too wide) in paragraph at lines 272--273
+\OT1/cmr/m/n/10 the pro-por-tion of Ca$[]$ in-creases, \LGR/cmr/m/n/10 e$[]$ \O
+T1/cmr/m/n/10 de-creases. C dis-solves as both molec-u-lar CO$[]$ 
+ []
+
+
+Overfull \hbox (21.36299pt too wide) in paragraph at lines 272--273
+\OT1/cmr/m/n/10 and CO$[]$ in NaAl-rich sil-i-cate glasses (al-bitic, jadeitic,
+ nephelinitic com-po-si-tions) []Dixon 
+ []
+
+
+Overfull \hbox (0.73799pt too wide) in paragraph at lines 272--273
+\OT1/cmr/m/n/10 & Pan, 1995; Fine & Stolper, 1985; My-sen & Virgo, 1980b, 1980a
+). C solely dis-solves 
+ []
+
+
+Overfull \hbox (9.6407pt too wide) in paragraph at lines 272--273
+\OT1/cmr/m/n/10 as CO$[]$ in Ca and CaMg-rich sil-i-cate glasses (diop-sidic, s
+o-damelilitic, and ak-er-manitic 
+ []
+
+
+Overfull \hbox (10.97075pt too wide) in paragraph at lines 274--275
+[]\OT1/cmr/m/n/10 We re-fit the lin-ear re-la-tion-ships be-tween \LGR/cmr/m/n/
+10 e$[]$\OT1/cmr/m/n/10 , \LGR/cmr/m/n/10 e$[]$\OT1/cmr/m/n/10 , \LGR/cmr/m/n/1
+0 e$[]$\OT1/cmr/m/n/10 , \LGR/cmr/m/n/10 e$[]$\OT1/cmr/m/n/10 , and 
+ []
+
+
+Overfull \hbox (5.16841pt too wide) in paragraph at lines 274--275
+\LGR/cmr/m/n/10 e$[]$ \OT1/cmr/m/n/10 and the cor-re-spond-ing com-po-si-tional
+ pa-ram-e-ters of $\U/eur/m/n/10 ^^\$ \OT1/cmr/m/n/10 or Na$[]$/(Na$[]$+Ca$[]$)
+ val- 
+ []
+
+
+Overfull \hbox (6.82126pt too wide) in paragraph at lines 274--275
+\OT1/cmr/m/n/10 ues to in-clude more re-cent data and broader com-po-si-tional 
+ranges, with an im-plicit in- 
+ []
+
+
+Overfull \hbox (23.95909pt too wide) in paragraph at lines 277--278
+[]\OT1/cmr/m/n/10 Uncertainties in \LGR/cmr/m/n/10 e\OT1/cmr/m/n/10 , due to va
+ri-abil-ity in in-de-pen-dent volatile mea-sure-ments, and com- 
+ []
+
+
+Overfull \hbox (1.65459pt too wide) in paragraph at lines 277--278
+\OT1/cmr/m/n/10 po-si-tional pa-ram-e-ters, re-lated to older mi-cro-probe mea-
+sure-ments with in-com-plete ox- 
+ []
+
+
+Overfull \hbox (3.29237pt too wide) in paragraph at lines 277--278
+\OT1/cmr/m/n/10 ide mea-sure-ments, can thus be ac-counted for within the model
+. The \LGR/cmr/m/n/10 e\OT1/cmr/m/n/10 data are lim-ited 
+ []
+
+
+Overfull \hbox (11.82124pt too wide) in paragraph at lines 277--278
+\OT1/cmr/m/n/10 to stud-ies with in-de-pen-dent meth-ods of volatile mea-sure-m
+ent { such as SIMS, Karl Fis- 
+ []
+
+
+Overfull \hbox (1.76578pt too wide) in paragraph at lines 277--278
+\OT1/cmr/m/n/10 cher titra-tion, ex-per-i-men-tal mass bal-ance, vac-uum heat-i
+ng, or manom-e-try { and with 
+ []
+
+
+Overfull \hbox (7.28038pt too wide) in paragraph at lines 277--278
+\OT1/cmr/m/n/10 H$[]$O $\OML/cmm/m/it/10 >$ \OT1/cmr/m/n/10 0.5 wt.% for peak r
+es-o-lu-tion. In the full dataset, $\U/eur/m/n/10 ^^\$ \OT1/cmr/m/n/10 spans th
+e range of 0.50-0.90 
+ []
+
+
+Overfull \hbox (9.2527pt too wide) in paragraph at lines 277--278
+\OT1/cmr/m/n/10 and Na$[]$/(Na$[]$+Ca$[]$) from 0.23-0.84, en-com-pass-ing that
+ for the Fuego 2018 MIs ($\U/eur/m/n/10 ^^\$ \OT1/cmr/m/n/10 = 
+ []
+
+
+Overfull \hbox (2.95851pt too wide) in paragraph at lines 277--278
+\OT1/cmr/m/n/10 0.66-0.71 and Na$[]$/(Na$[]$+Ca$[]$) = 0.39-0.56). If \LGR/cmr/
+m/n/10 e$[]$ \OT1/cmr/m/n/10 or \LGR/cmr/m/n/10 e$[]$ \OT1/cmr/m/n/10 are quan-
+ti-fied with 
+ []
+
+
+Overfull \hbox (1.36285pt too wide) in paragraph at lines 277--278
+\OT1/cmr/m/n/10 both a lin-ear and two Gaus-sian base-line, we av-er-age the tw
+o es-ti-mates. Al-though not 
+ []
+
+
+Overfull \hbox (18.93236pt too wide) in paragraph at lines 277--278
+\OT1/cmr/m/n/10 typ-i-cally quan-ti-fied, we find a pos-i-tive re-la-tion-ship 
+be-tween \LGR/cmr/m/n/10 e$[]$ \OT1/cmr/m/n/10 and $\U/eur/m/n/10 ^^\$\OT1/cmr/
+m/n/10 , de-spite com- 
+ []
+
+
+Overfull \hbox (3.07129pt too wide) in paragraph at lines 277--278
+\OT1/cmr/m/n/10 pli-ca-tions pre-sented by the spe-ci-a-tion (Sup-ple-men-tal F
+ig-ure xx). The re-la-tion-ship ob- 
+ []
+
+
+Overfull \hbox (13.71017pt too wide) in paragraph at lines 277--278
+\OT1/cmr/m/n/10 served with NBO/T, cal-cu-lated by meth-ods out-lined in []Myse
+n and Richet (2018), is not 
+ []
+
+
+Overfull \hbox (0.79344pt too wide) in paragraph at lines 277--278
+\OT1/cmr/m/n/10 ob-served in this dataset, de-spite the ob-ser-va-tion in []Mer
+cier et al.[] (2010) (Sup-ple-men- 
+ []
+
+
+Overfull \hbox (4.91849pt too wide) in paragraph at lines 279--280
+[]\OT1/cmr/m/n/10 While end-mem-ber data for H$[]$O$[]$ re-main lim-ited, \LGR/
+cmr/m/n/10 e$[]$ \OT1/cmr/m/n/10 is best fit with $\U/eur/m/n/10 ^^\$\OT1/cmr/m
+/n/10 . 
+ []
+
+
+Overfull \hbox (8.40204pt too wide) in paragraph at lines 279--280
+\LGR/cmr/m/n/10 e$[]$ \OT1/cmr/m/n/10 data are of-ten lim-ited to ei-ther the \
+LGR/cmr/m/n/10 e$[]$ \OT1/cmr/m/n/10 or \LGR/cmr/m/n/10 e$[]$ \OT1/cmr/m/n/10 p
+eak, which are also as- 
+ []
+
+
+Overfull \hbox (7.90373pt too wide) in paragraph at lines 279--280
+\OT1/cmr/m/n/10 sumed to be ap-prox-i-mately equal []Dixon & Pan, 1995). A cu-m
+u-la-tive \LGR/cmr/m/n/10 e$[]$ \OT1/cmr/m/n/10 is fit with 
+ []
+
+
+Overfull \hbox (10.70862pt too wide) in paragraph at lines 279--280
+\OT1/cmr/m/n/10 data from \LGR/cmr/m/n/10 e$[]$ \OT1/cmr/m/n/10 or \LGR/cmr/m/n
+/10 e$[]$\OT1/cmr/m/n/10 , where avail-able, given the vari-abil-ity in the bas
+e-line fit- 
+ []
+
+
+Overfull \hbox (1.98799pt too wide) in paragraph at lines 279--280
+\OT1/cmr/m/n/10 ting method. This re-gres-sion is ap-pro-pri-ate for the com-po
+-si-tional range of cal-i-bra-tion 
+ []
+
+
+Overfull \hbox (11.3353pt too wide) in paragraph at lines 279--280
+\OT1/cmr/m/n/10 (Na$[]$/(Na$[]$+Ca$[]$) = 0.23-0.84). The be-hav-ior of the ab-
+sorp-tion co-ef-fi-cient at the Na$[]$ 
+ []
+
+
+Overfull \hbox (24.89073pt too wide) in paragraph at lines 279--280
+\OT1/cmr/m/n/10 and Ca$[]$ end-mem-bers is com-plex and these com-po-si-tions a
+re not con-sid-ered in this study. 
+ []
+
+
+Overfull \hbox (6.65134pt too wide) in paragraph at lines 279--280
+\OT1/cmr/m/n/10 An un-cer-tainty of 10% is ap-plied to \LGR/cmr/m/n/10 e$[]$\OT
+1/cmr/m/n/10 , \LGR/cmr/m/n/10 e$[]$\OT1/cmr/m/n/10 , \LGR/cmr/m/n/10 e$[]$\OT1
+/cmr/m/n/10 , and \LGR/cmr/m/n/10 e$[]$ \OT1/cmr/m/n/10 peaks. An 
+ []
+
+
+Overfull \hbox (11.3343pt too wide) in paragraph at lines 279--280
+\OT1/cmr/m/n/10 un-cer-tainty of 20% is ap-plied to the fits with \LGR/cmr/m/n/
+10 e$[]$ \OT1/cmr/m/n/10 given the in-creased un-cer-tainty on 
+ []
+
+
+Overfull \hbox (0.89064pt too wide) in paragraph at lines 279--280
+\OT1/cmr/m/n/10 the con-trast-ing lin-ear and Gaus-sian base-line fits to the p
+eak. Un-cer-tain-ties in the ex- 
+ []
+
+
+Overfull \hbox (4.3768pt too wide) in paragraph at lines 279--280
+\OT1/cmr/m/n/10 tinc-tion co-ef-fi-cient fit, in com-bi-na-tion with those for 
+the mi-cro-probe ses-sion, are prop- 
+ []
+
+<Figures//AllEpsilonRegress.pdf, id=39, 981.6675pt x 1332.98pt>
+File: Figures//AllEpsilonRegress.pdf Graphic file (type pdf)
+<use Figures//AllEpsilonRegress.pdf>
+Package pdftex.def Info: Figures//AllEpsilonRegress.pdf  used on input line 283
+.
+(pdftex.def)             Requested size: 397.48499pt x 539.7319pt.
+
+Overfull \hbox (1.62677pt too wide) in paragraph at lines 290--291
+[]\OT1/cmr/m/n/10 Melt den-sity is a func-tion of the com-po-si-tion of the mel
+t in-clu-sion, and is cal-cu- 
+ []
+
+
+Overfull \hbox (12.8769pt too wide) in paragraph at lines 290--291
+\OT1/cmr/m/n/10 lated from the gram for-mula weight and par-tial mo-lar vol-ume
+s (at am-bi-ent tem-per-a-ture 
+ []
+
+
+Overfull \hbox (10.9324pt too wide) in paragraph at lines 290--291
+\OT1/cmr/m/n/10 and pres-sure of the an-a-lyt-i-cal con-di-tions) from []Lesher
+ and Spera (2015). The large mo- 
+ []
+
+
+Overfull \hbox (8.19627pt too wide) in paragraph at lines 290--291
+\OT1/cmr/m/n/10 lar vol-ume of H$[]$O in arc basaltic melt in-clu-sions strongl
+y im-pacts den-sity and re-quires 
+ []
+
+
+Overfull \hbox (8.32129pt too wide) in paragraph at lines 290--291
+\OT1/cmr/m/n/10 the im-ple-men-ta-tion of an it-er-a-tive solver. The ini-tial 
+so-lu-tion for den-sity is as-sumed to 
+ []
+
+
+Overfull \hbox (11.43253pt too wide) in paragraph at lines 290--291
+\OT1/cmr/m/n/10 have no con-tri-bu-tion from H$[]$O but is up-dated with the ca
+l-cu-lated amount of H$[]$O$[]$ 
+ []
+
+
+Overfull \hbox (5.97408pt too wide) in paragraph at lines 290--291
+\OT1/cmr/m/n/10 or H$[]$O$[]$ + OH$[]$ if the sam-ple is sat-u-rated. The den-s
+ity con-verges within 10 it- 
+ []
+
+
+Overfull \hbox (17.25186pt too wide) in paragraph at lines 290--291
+\OT1/cmr/m/n/10 er-a-tions. The fi-nal den-sity, the ap-pro-pri-ate ab-sorp-tio
+n co-ef-fi-cient, and the ALS and MC$[]$ 
+ []
+
+
+Overfull \hbox (1.09903pt too wide) in paragraph at lines 290--291
+\OT1/cmr/m/n/10 de-ter-mined peak heights of ab-sorbance are ap-plied through t
+he Beer Lam-bert Law to 
+ []
+
+
+Overfull \hbox (2.4741pt too wide) in paragraph at lines 290--291
+\OT1/cmr/m/n/10 de-ter-mine the con-cen-tra-tion of H$[]$O$[]$, H$[]$O$[]$, OH$
+[]$, and CO$[]$ of each dou-blet peak. A 
+ []
+
+
+Overfull \hbox (8.7657pt too wide) in paragraph at lines 290--291
+\OT1/cmr/m/n/10 stan-dard de-vi-a-tion on each con-cen-tra-tion is taken by run
+-ning a sim-ple Monte Carlo er- 
+ []
+
+
+Overfull \hbox (5.71005pt too wide) in paragraph at lines 290--291
+\OT1/cmr/m/n/10 ror as-sess-ment in which all pa-ram-e-ters (ex-cept mo-lar mas
+s) are al-lowed to vary with a 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <./Figures//AllEpsilonRegress.pdf>]
+Overfull \hbox (9.01563pt too wide) in paragraph at lines 298--299
+[]\OT1/cmr/m/n/10 The net equa-tion de-scrib-ing the ab-sorbance spec-trum of a
+ glass or melt in-clu-sion, 
+ []
+
+
+Overfull \hbox (10.50053pt too wide) in paragraph at lines 298--299
+\OT1/cmr/m/n/10 with \LGR/cmr/m/n/10 u$[]$ \OT1/cmr/m/n/10 de-fined as the wave
+num-ber range from 2400 to 1275 cm$[]$, is thus ex-pressed in 
+ []
+
+
+Overfull \hbox (14.30283pt too wide) in paragraph at lines 300--301
+[]\OT1/cmr/m/n/10 where $\OML/cmm/m/it/10 x[]$\OT1/cmr/m/n/10 , $\OML/cmm/m/it/
+10 x[]$\OT1/cmr/m/n/10 , $\OML/cmm/m/it/10 x[]$\OT1/cmr/m/n/10 , $\OML/cmm/m/it
+/10 y[]$\OT1/cmr/m/n/10 , $\OML/cmm/m/it/10 y[]$\OT1/cmr/m/n/10 , $\OML/cmm/m/i
+t/10 a[]$\OT1/cmr/m/n/10 , $\OML/cmm/m/it/10 a[]$\OT1/cmr/m/n/10 , 1515, 1430, 
+1515, 1430, m, and b are the best 
+ []
+
+
+Overfull \hbox (33.0157pt too wide) in paragraph at lines 300--301
+\OT1/cmr/m/n/10 fit pa-ram-e-ters. These op-ti-mum fit pa-ram-e-ters are first 
+de-ter-mined by or-di-nary least squares. 
+ []
+
+
+Overfull \hbox (4.90457pt too wide) in paragraph at lines 300--301
+\OT1/cmr/m/n/10 The model pa-ram-e-ter space of the mod-eled ab-sorbance of the
+ melt in-clu-sion spec-trum 
+ []
+
+
+Overfull \hbox (33.07137pt too wide) in paragraph at lines 300--301
+\OT1/cmr/m/n/10 is sam-pled and ex-plored by lever-ag-ing a Monte-Carlo Markov 
+Chain al-go-rithm in a Bayesian 
+ []
+
+
+Overfull \hbox (7.2935pt too wide) in paragraph at lines 300--301
+\OT1/cmr/m/n/10 para-met-ric frame-work, to ac-count for un-cer-tainty. In this
+ frame-work of Bayesian in-fer- 
+ []
+
+
+Overfull \hbox (2.29352pt too wide) in paragraph at lines 300--301
+\OT1/cmr/m/n/10 ences, the pos-te-rior joint prob-a-bil-ity dis-tri-bu-tion of 
+model pa-ram-e-ters is quan-ti-fied as 
+ []
+
+
+Overfull \hbox (15.51587pt too wide) in paragraph at lines 300--301
+\OT1/cmr/m/n/10 a func-tion of the prior prob-a-bil-ity of model pa-ram-e-ters 
+and a like-li-hood func-tion. Bayes' 
+ []
+
+
+Overfull \hbox (14.18243pt too wide) in paragraph at lines 300--301
+\OT1/cmr/m/n/10 The-o-rem dic-tates that the pos-te-rior joint prob-a-bil-ity d
+is-tri-bu-tion is up-dated as more in- 
+ []
+
+
+Overfull \hbox (7.19498pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 where $\OML/cmm/m/it/10 y$ \OT1/cmr/m/n/10 de-notes data, $\OML
+/cmm/m/it/10 ^^R$ \OT1/cmr/m/n/10 is the set of pa-ram-e-ters, $\OML/cmm/m/it/1
+0 P\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^R\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 y; M
+\OT1/cmr/m/n/10 )$ is the pos-te-rior prob-a-bil-ity 
+ []
+
+
+Overfull \hbox (12.2276pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 dis-tri-bu-tion of pa-ram-e-ters, $\OML/cmm/m/it/10 P\OT1/cmr/m
+/n/10 (\OML/cmm/m/it/10 ^^R\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 M\OT1/cmr/m/n/10 
+)$ is the prior prob-a-bil-ity dis-tri-bu-tion (not in-cor-po-rat- 
+ []
+
+
+Overfull \hbox (1.43356pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 ing new in-for-ma-tion), and $\OML/cmm/m/it/10 P\OT1/cmr/m/n/10
+ (\OML/cmm/m/it/10 y\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 ^^R; M\OT1/cmr/m/n/10 )$
+ is the like-li-hood. The prior prob-a-bil-ity dis-tri-bu- 
+ []
+
+
+Overfull \hbox (0.82124pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 tion of pa-ram-e-ters is de-fined by the ex-pected range and di
+s-tri-bu-tions of these pa-ram- 
+ []
+
+
+Overfull \hbox (17.71019pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 e-ters. The like-li-hood serves as the prob-a-bil-ity den-sity 
+func-tion of the mod-eled data given 
+ []
+
+
+Overfull \hbox (9.59906pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 an ar-ray of pa-ram-e-ters. A Markov-Chain Monte Carlo (MCMC) a
+l-go-rithm was uti-lized 
+ []
+
+
+Overfull \hbox (16.8212pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 to gen-er-ate ran-dom sam-ples from the pa-ram-e-ter space to g
+en-er-ate and as-sess the pa-ram- 
+ []
+
+
+Overfull \hbox (19.07126pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 e-ter space, where the ran-dom sam-ples gen-er-ated by the al-g
+o-rithm hold a prob-a-bil-ity den- 
+ []
+
+
+Overfull \hbox (15.04362pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 sity dis-tri-bu-tion that is pro-por-tional to the pos-te-rior 
+prob-a-bil-ity dis-tri-bu-tion. The open- 
+ []
+
+
+Overfull \hbox (18.41847pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 source Python pack-age, Multi-Core Markov-Chain Monte Carlo, or
+ MC$[]$, in-te-grates these 
+ []
+
+
+Overfull \hbox (15.9602pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 sta-tis-ti-cal meth-ods []Cubillos et al.[], 2017) and was im-p
+le-mented for this study. Fixed ab- 
+ []
+
+
+Overfull \hbox (10.04349pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 sorbance spec-tra pro-vide the in-for-ma-tion re-quired to gen-
+er-ate im-proved pos-te-rior prob- 
+ []
+
+
+Overfull \hbox (7.98807pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 a-bil-ity dis-tri-bu-tions of model pa-ram-e-ters. Prior prob-a
+-bil-ity dis-tri-bu-tions of the pa-ram- 
+ []
+
+
+Overfull \hbox (0.2934pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 e-ters gen-er-at-ing the base-line, peaks, and lines re-quire d
+if-fer-ent func-tions { ei-ther uni- 
+ []
+
+
+Overfull \hbox (5.1128pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 form or Gaus-sian { to ac-cu-rately rep-re-sent this space. Pa-
+ram-e-ters re-lated to the base- 
+ []
+
+
+Overfull \hbox (10.37688pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 lines, molec-u-lar H$[]$O peak, CO$[]$ dou-blet peak heights, a
+nd lin-ear ad-just-ment are sam- 
+ []
+
+
+Overfull \hbox (4.07129pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 pled uni-formly, given the greater vari-a-tion within these pa-
+ram-e-ters that is not de-fined 
+ []
+
+
+Overfull \hbox (26.96024pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 around one value. The ex-plo-ration space pro-vided these uni-f
+ormly sam-pled pri-ors is guided 
+ []
+
+
+Overfull \hbox (13.3908pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 by the ini-tial model gen-er-a-tion pro-cess. The CO$[]$ dou-bl
+et peak lo-ca-tions and stan-dard 
+ []
+
+
+Overfull \hbox (7.1962pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 de-vi-a-tions are de-fined with a Gaus-sian prior, given the we
+ll-defined na-ture of these pa- 
+ []
+
+
+Overfull \hbox (10.15456pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 ram-e-ters in basaltic melt in-clu-sion ab-sorbance spec-tra. T
+he ini-tial prior pa-ram-e-ters are 
+ []
+
+
+Overfull \hbox (13.90451pt too wide) in paragraph at lines 303--306
+\OT1/cmr/m/n/10 op-ti-mized with the least-squares Trust Re-gion Re-flec-tive a
+l-go-rithm, which is suit-able for 
+ []
+
+
+Overfull \hbox (16.73795pt too wide) in paragraph at lines 307--308
+[]\OT1/cmr/m/n/10 Random MCMC sam-pling is per-formed with the Snooker Up-dater
+ Dif-fer-en-tial Evo- 
+ []
+
+
+Overfull \hbox (2.46022pt too wide) in paragraph at lines 307--308
+\OT1/cmr/m/n/10 lu-tion Markov Chain method (DEMC), which in-volves the par-al-
+lel evo-lu-tion of mul-ti- 
+ []
+
+
+Overfull \hbox (5.51576pt too wide) in paragraph at lines 307--308
+\OT1/cmr/m/n/10 ple chains and com-pu-ta-tion of ap-pro-pri-ate scales and ori-
+en-ta-tions for the jump-ing dis- 
+ []
+
+
+Overfull \hbox (17.3491pt too wide) in paragraph at lines 307--308
+\OT1/cmr/m/n/10 tri-bu-tion []ter Braak, 2006; ter Braak & Vrugt, 2008). The sc
+ale and di-rec-tion of the pro- 
+ []
+
+
+Overfull \hbox (5.43239pt too wide) in paragraph at lines 307--308
+\OT1/cmr/m/n/10 posed jump is com-puted by the par-al-lel com-pu-ta-tion of sev
+-eral chains, which al-low for 
+ []
+
+
+Overfull \hbox (12.5712pt too wide) in paragraph at lines 307--308
+\OT1/cmr/m/n/10 the dif-fer-ences be-tween one chain and two ad-di-tional ran-d
+omly se-lected chains to evolve 
+ []
+
+
+Overfull \hbox (0.59898pt too wide) in paragraph at lines 307--308
+\OT1/cmr/m/n/10 for-wards. The chains will con-verge to-wards a pos-te-rior dis
+-tri-bu-tion and will align the 
+ []
+
+
+Overfull \hbox (12.26581pt too wide) in paragraph at lines 307--308
+\OT1/cmr/m/n/10 evo-lu-tion along the proper ori-en-ta-tion, with good scal-ing
+. The Snooker Up-dater DEMC 
+ []
+
+
+Overfull \hbox (0.43231pt too wide) in paragraph at lines 307--308
+\OT1/cmr/m/n/10 op-ti-mizes ac-cep-tance rates and ef-fi-ciency, al-low-ing for
+ one melt in-clu-sion spec-trum to 
+ []
+
+
+Overfull \hbox (5.87683pt too wide) in paragraph at lines 307--308
+\OT1/cmr/m/n/10 be run within 15 sec-onds. The Bayesian and MCMC frame-work un-
+der-ly-ing this model 
+ []
+
+
+Overfull \hbox (14.43236pt too wide) in paragraph at lines 307--308
+\OT1/cmr/m/n/10 al-lows for nu-mer-ous pa-ram-e-ters to be sam-pled and fit con
+-cur-rently, while cred-i-bly quan- 
+ []
+
+[8]
+Overfull \hbox (0.83829pt too wide) in paragraph at lines 479--479
+[]\OT1/cmr/bx/n/10.95 Supplement: EPMA An-a-lyt-i-cal Con-di-tions, Pre-ci-sion
+, 
+ []
+
+
+Overfull \hbox (6.73792pt too wide) in paragraph at lines 482--483
+[]\OT1/cmr/m/n/10 Analytical pre-ci-sion is quan-ti-fied as the rel-a-tive stan
+-dard de-vi-a-tion (stan-dard de- 
+ []
+
+
+Overfull \hbox (1.46024pt too wide) in paragraph at lines 482--483
+\OT1/cmr/m/n/10 vi-a-tion of re-peat anal-y-sis / mean com-po-si-tion of stan-d
+ard dur-ing ses-sion) of re-peated 
+ []
+
+
+Overfull \hbox (26.5158pt too wide) in paragraph at lines 482--483
+\OT1/cmr/m/n/10 anal-y-ses of a sec-ondary stan-dard dur-ing an an-a-lyt-i-cal 
+ses-sion. An-a-lyt-i-cal ac-cu-racy is quan- 
+ []
+
+
+Overfull \hbox (1.98798pt too wide) in paragraph at lines 482--483
+\OT1/cmr/m/n/10 ti-fied as the mean com-po-si-tion of the sec-ondary stan-dard 
+dur-ing an an-a-lyt-i-cal ses-sion 
+ []
+
+
+Overfull \hbox (0.46024pt too wide) in paragraph at lines 482--483
+\OT1/cmr/m/n/10 di-vided by the lab-o-ra-tory value for the stan-dard. Spe-cifi
+c ac-qui-si-tion pa-ram-e-ters and 
+ []
+
+
+Overfull \hbox (1.79341pt too wide) in paragraph at lines 482--483
+\OT1/cmr/m/n/10 as-sess-ments of an-a-lyt-i-cal pre-ci-sion and ac-cu-racy are 
+pre-sented in the fol-low-ing ta-bles.  
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+[]\OT1/cmr/m/n/10 Table A1: |As-sess-ment of EPMA an-a-lyt-i-cal con-di-tions, 
+pre-ci-sion, and ac-cu-racy for an-a-
+ []
+
+(./agujournaltemplate.bbl
+Underfull \hbox (badness 5008) in paragraph at lines 16--31
+[]\OT1/cmr/m/n/10 Allison, C. M., Roggen-sack, K., & Clarke, A. B.  (2019).  H$
+[]$O--CO$[]$ sol-u-bil-ity in 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+Underfull \hbox (badness 10000) in paragraph at lines 69--89
+[]\OT1/cmr/m/n/10 Barth, A., New-combe, M., Plank, T., Gonner-mann, H., Ha-jimi
+rza, S., Soto, G. J., 
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 69--89
+\OT1/cmr/m/n/10 ... Hauri, E.  (2019).  Magma de-com-pres-sion rate cor-re-late
+s with ex-plo-siv-ity 
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 69--89
+\OT1/cmr/m/n/10 at basaltic volcanoes---Constraints from wa-ter dif-fu-sion in 
+olivine.  \OT1/cmr/m/it/10 Jour-nal of 
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 103--118
+[]\OT1/cmr/m/n/10 Branch, M. A., Cole-man, T. F., & Li, Y.  (1999).  A Sub-spac
+e, In-te-rior, and Con- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--118
+\OT1/cmr/m/n/10 ju-gate Gra-di-ent Method for Large-Scale Bound-Constrained Min
+-i-miza-tion 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--149
+\OT1/cmr/m/n/10 tive anal-y-sis of a prin-ci-pal com-po-nent analysis-based and
+ an ar-ti-fi-cial neu-ral 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--149
+\OT1/cmr/m/n/10 network-based method for base-line re-moval.  \OT1/cmr/m/it/10 
+Ap-plied Spec-troscopy\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 70\OT1/cmr/m/n/10 (4),
+ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--178
+[]\OT1/cmr/m/n/10 Cubillos, P., Har-ring-ton, J., Loredo, T. J., Lust, N. B., B
+le-cic, J., & Stemm, M. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--206
+[]\OT1/cmr/m/n/10 Dixon, J. E., & Clague, D. A.  (2001).  Volatiles in basaltic
+ glasses from loihi 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--206
+\OT1/cmr/m/n/10 seamount, hawaii: Ev-i-dence for a rel-a-tively dry plume com-p
+o-nent.  \OT1/cmr/m/it/10 Jour-nal 
+ []
+
+
+Underfull \hbox (badness 7740) in paragraph at lines 247--262
+[]\OT1/cmr/m/n/10 Dixon, J. E., Stolper, E., & De-laney, J. R.  (1988).  In-fra
+red spec-tro-scopic mea- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--291
+\OT1/cmr/m/n/10 diox-ide sol-u-bil-i-ties in mid-ocean ridge basaltic liq-uids.
+ Part II: ap-pli-ca-tions to 
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 305--321
+[]\OT1/cmr/m/n/10 Dixon, J. E., Stolper, E. M., & Hol-loway, J. R.  (1995).  An
+ ex-per-i-men-tal study of 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--321
+\OT1/cmr/m/n/10 wa-ter and car-bon diox-ide sol-u-bil-i-ties in mid-ocean ridge
+ basaltic liq-uids. Part 
+ []
+
+
+Underfull \hbox (badness 2285) in paragraph at lines 386--400
+[]\OT1/cmr/m/n/10 Fine, G., & Stolper, E.  (1986).  Dis-solved car-bon diox-ide
+ in basaltic glasses: con- 
+ []
+
+
+Underfull \hbox (badness 2653) in paragraph at lines 414--427
+[]\OT1/cmr/m/n/10 Howie, R., Zuss-man, J., & Deer, W.  (1992).  \OT1/cmr/m/it/1
+0 An in-tro-duc-tion to the rock-forming 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--487
+[]\OT1/cmr/m/n/10 Lee, L. C., Li-ong, C., Khairul, O., & Je-main, A. A.  (2017)
+.  Ef-fects of base-line 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--487
+\OT1/cmr/m/n/10 cor-rec-tion al-go-rithms on foren-sic clas-si-fi-ca-tion of pa
+-per based on ATR-FTIR 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--487
+\OT1/cmr/m/n/10 spec-trum and prin-ci-pal com-po-nent anal-y-sis (PCA).  \OT1/c
+mr/m/it/10 Per-tanika Jour-nal of 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--547
+[]\OT1/cmr/m/n/10 Mandeville, C. W., Web-ster, J. D., Ruther-ford, M. J., Tay-l
+or, B. E., Tim-bal, A., & 
+ []
+
+[10]
+Underfull \hbox (badness 1924) in paragraph at lines 562--580
+[]\OT1/cmr/m/n/10 McIntosh, I. M., Nichols, A. R., Tani, K., & Llewellin, E. W.
+  (2017).  Ac-count-ing 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--580
+\OT1/cmr/m/n/10 for the species-dependence of the 3500 cm$[]$ H$[]$O$[]$ in-fra
+red mo-lar ab-sorp-tiv-ity 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 615--633
+[]\OT1/cmr/m/n/10 Mercier, M., Di Muro, A., M^^Setrich, N., Gior-dano, D., Bel-
+hadj, O., & Man-dev-ille, 
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 615--633
+\OT1/cmr/m/n/10 C. W.  (2010).  Spec-tro-scopic anal-y-sis (FTIR, Ra-man) of wa
+-ter in mafic and 
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 615--633
+\OT1/cmr/m/n/10 in-ter-me-di-ate glasses and glass in-clu-sions.  \OT1/cmr/m/it
+/10 Geochim-ica et Cos-mochim-ica Acta\OT1/cmr/m/n/10 , 
+ []
+
+
+Underfull \hbox (badness 5359) in paragraph at lines 672--687
+[]\OT1/cmr/m/n/10 Mysen, B. O., & Virgo, D.  (1980a).  The sol-u-bil-ity be-hav
+-ior of CO$[]$ in melts on 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 672--687
+\OT1/cmr/m/n/10 the join NaAlSi$[]$O$[]$- CaAl$[]$Si$[]$O$[]$-CO$[]$ at high pr
+es-sures and tem-per-a-tures: a 
+ []
+
+
+Underfull \hbox (badness 5036) in paragraph at lines 701--714
+\OT1/cmr/m/n/10 i-cate melts: a Ra-man spec-tro-scopic study.  \OT1/cmr/m/it/10
+ Amer-i-can Min-er-al-o-gist\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 65\OT1/cmr/m/n/1
+0 (9-10), 
+ []
+
+
+Underfull \hbox (badness 2027) in paragraph at lines 728--742
+[]\OT1/cmr/m/n/10 Newman, S., Stolper, E., & Stern, R.  (2000).  H$[]$O and CO$
+[]$ in mag-mas from the 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 728--742
+\OT1/cmr/m/n/10 Mar-i-ana arc and back arc sys-tems.  \OT1/cmr/m/it/10 Geo-chem
+-istry, Geo-physics, Geosys-tems\OT1/cmr/m/n/10 , 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 784--798
+[]\OT1/cmr/m/n/10 Nichols, A. R., & Wysoczan-ski, R.  (2007).  Us-ing micro-FTI
+R spec-troscopy to 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 784--798
+\OT1/cmr/m/n/10 mea-sure volatile con-tents in small and un-ex-posed in-clu-sio
+ns hosted in olivine 
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 839--854
+[]\OT1/cmr/m/n/10 Ohlhorst, S., Behrens, H., & Holtz, F.  (2001).  Com-po-si-ti
+onal de-pen-dence of mo- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 839--854
+\OT1/cmr/m/n/10 lar ab-sorp-tiv-i-ties of near-infrared OH-and H$[]$O bands in 
+rhy-olitic to basaltic 
+ []
+
+
+Underfull \hbox (badness 6910) in paragraph at lines 868--883
+[]\OT1/cmr/m/n/10 Okumura, S., Naka-mura, M., & Nakashima, S.  (2003).  De-ter-
+mi-na-tion of mo-lar 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 868--883
+\OT1/cmr/m/n/10 ab-sorp-tiv-ity of IR fun-da-men-tal OH-stretching vi-bra-tion 
+in rhy-olitic glasses. 
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 897--911
+[]\OT1/cmr/m/n/10 Pandya, N., Muenow, D. W., & Sharma, S. K.  (1992).  The ef-f
+ect of bulk com-po- 
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 897--911
+\OT1/cmr/m/n/10 si-tion on the spe-ci-a-tion of wa-ter in sub-ma-rine vol-canic
+ glasses.  \OT1/cmr/m/it/10 Geochim-ica et 
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 923--940
+[]\OT1/cmr/m/n/10 Peng, J., Peng, S., Jiang, A., Wei, J., Li, C., & Tan, J.  (2
+010).  Asym-met-ric least 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 923--940
+\OT1/cmr/m/n/10 squares for mul-ti-ple spec-tra base-line cor-rec-tion.  \OT1/c
+mr/m/it/10 An-a-lyt-ica Chim-ica Acta\OT1/cmr/m/n/10 , 
+ []
+
+
+Underfull \hbox (badness 6775) in paragraph at lines 952--966
+[]\OT1/cmr/m/n/10 Rasmussen, D. J.  (2019).  \OT1/cmr/m/it/10 Va-por bub-ble gr
+owth in olivine-hosted melt in-clu-sions 
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 952--966
+\OT1/cmr/m/n/10 (Un-pub-lished doc-toral dis-ser-ta-tion).  Columbia Uni-ver-si
+ty in the City of New 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1031--1049
+[]\OT1/cmr/m/n/10 Stabile, P., Ap-piah, E., Bello, M., Giuli, G., Paris, E., & 
+Car-roll, M. R.  (2020). 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1031--1049
+\OT1/cmr/m/n/10 New IR spec-tro-scopic data for de-ter-mi-na-tion of wa-ter abu
+n-dances in hy-drous 
+ []
+
+
+Underfull \hbox (badness 4819) in paragraph at lines 1031--1049
+\OT1/cmr/m/n/10 pan-tel-leritic glasses.  \OT1/cmr/m/it/10 Amer-i-can Min-er-al
+-o-gist: Jour-nal of Earth and Plan-e-tary 
+ []
+
+
+Underfull \vbox (badness 6141) has occurred while \output is active []
+
+ [11]
+Underfull \hbox (badness 10000) in paragraph at lines 1110--1128
+[]\OT1/cmr/m/n/10 Sun, W., Binns, R., Fan, A., Kamenet-sky, V. S., Wysoczan-ski
+, R., Wei, G., ... Ar- 
+ []
+
+
+Underfull \hbox (badness 6910) in paragraph at lines 1110--1128
+\OT1/cmr/m/n/10 cu-lus, R.  (2007).  Chlo-rine in sub-ma-rine vol-canic glasses
+ from the east-ern 
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1169--1183
+[]\OT1/cmr/m/n/10 ter Braak, C. J.  (2006).  A Markov Chain Monte Carlo ver-sio
+n of the ge-netic al- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1169--1183
+\OT1/cmr/m/n/10 go-rithm Dif-fer-en-tial Evo-lu-tion: easy Bayesian com-put-ing
+ for real pa-ram-e-ter 
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 1225--1240
+[]\OT1/cmr/m/n/10 Tr^^?oger, W. E., Bam-bauer, H. U., Taborszky, F., & Trochim,
+ H.-D.  (1959).  \OT1/cmr/m/it/10 Op-tis- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1225--1240
+\OT1/cmr/m/it/10 che bes-tim-mung der gesteins-bilden-den minerale-teil i.: Bes
+-tim-mungsta-bellen\OT1/cmr/m/n/10 . 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1274
+[]\OT1/cmr/m/n/10 von Aulock, F. W., Kennedy, B. M., Schip-per, C. I., Cas-tro,
+ J., Mar-tin, D., Oze, C., 
+ []
+
+
+Underfull \hbox (badness 4621) in paragraph at lines 1252--1274
+\OT1/cmr/m/n/10 ... oth-ers  (2014).  Ad-vances in Fourier trans-form in-frared
+ spec-troscopy of 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1274
+\OT1/cmr/m/n/10 nat-u-ral glasses: From sam-ple prepa-ra-tion to data anal-y-si
+s-d-vances in Fourier 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1274
+\OT1/cmr/m/n/10 trans-form in-frared spec-troscopy of nat-u-ral glasses: From s
+am-ple prepa-ra-tion to 
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 1288--1302
+[]\OT1/cmr/m/n/10 Withers, A. C., & Behrens, H.  (1999).  Temperature-induced c
+hanges in the NIR 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1316--1331
+\OT1/cmr/m/n/10 in sili-cic vol-canic glasses and melt in-clu-sions: An ex-am-p
+le from the Izu-Bonin 
+ []
+
+
+Underfull \hbox (badness 3019) in paragraph at lines 1343--1357
+[]\OT1/cmr/m/n/10 Xue, X.  (2009).  Wa-ter spe-ci-a-tion in hy-drous sil-i-cate
+ and alu-mi-nosil-i-cate glasses: 
+ []
+
+) [12] (./agujournaltemplate.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.45pt have occurred.
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 10053 strings out of 478994
+ 153764 string characters out of 5858184
+ 666209 words of memory out of 5000000
+ 27363 multiletter control sequences out of 15000+600000
+ 411677 words of font info for 52 fonts, out of 8000000 for 9000
+ 1147 hyphenation exceptions out of 8191
+ 83i,13n,88p,1972b,1354s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></us
+r/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/
+local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
+cal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local
+/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/te
+xlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texli
+ve/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/
+2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/202
+1/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2021/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2021/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2021/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2021/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2021/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/local/texlive/2021/texmf-dist
+/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/local/texlive/2021/texmf-di
+st/fonts/type1/public/cbfonts/grmn1000.pfb></usr/local/texlive/2021/texmf-dist/
+fonts/type1/public/cbfonts/grxn1000.pfb></usr/local/texlive/2021/texmf-dist/fon
+ts/type1/public/cm-super/sfrm1000.pfb>
+Output written on agujournaltemplate.pdf (12 pages, 658436 bytes).
+PDF statistics:
+ 250 PDF objects out of 1000 (max. 8388607)
+ 160 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+

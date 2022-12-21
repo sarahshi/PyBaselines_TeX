@@ -1,14 +1,11 @@
 \def\currversion{April 16, 2019}
 
   %****************************************************************%
-  %*                                                              *%
   %*  AGU Class File for all AGU Journals                         *%
-  %*                                                              *%
   %*  Written by Amy Hendrickson                                  *%
   %*  TeXnology Inc.: 617 738-8029                                *%
   %*  amyh@texnology.com                                          *%
   %*  http://www.texnology.com                                    *%
-  %*                                                              *%
   %****************************************************************%
 
 %%% Updates by Dangerous Curve  typesetting@dangerouscurve.org
@@ -441,7 +438,7 @@
    \let\@listi\@listI}
 \normalsize
 
-\newcommand\bignormalsize{\@setfontsize\bignormalsize{10.5pt}{12}}
+\newcommand\bignormalsize{\@setfontsize\bignormalsize{11pt}{12}}
 
 \newcommand\small{%
 \ifdraft
